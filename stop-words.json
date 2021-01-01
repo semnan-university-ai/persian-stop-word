@@ -1,6998 +1,2310 @@
-[
- {
-   "stop_words": "‏آور"
- },
- {
-   "stop_words": "‏آی"
- },
- {
-   "stop_words": "‏باش"
- },
- {
-   "stop_words": "‏خواه"
- },
- {
-   "stop_words": "‏دار"
- },
- {
-   "stop_words": "‏دیگران"
- },
- {
-   "stop_words": "‏شو"
- },
- {
-   "stop_words": "‏توان"
- },
- {
-   "stop_words": "‏کن"
- },
- {
-   "stop_words": "‏گوی"
- },
- {
-   "stop_words": "‏گیر"
- },
- {
-   "stop_words": "‏یاب"
- },
- {
-   "stop_words": "﻿و"
- },
- {
-   "stop_words": "آباد"
- },
- {
-   "stop_words": "آخ"
- },
- {
-   "stop_words": "آخر"
- },
- {
-   "stop_words": "آخرها"
- },
- {
-   "stop_words": "آخه"
- },
- {
-   "stop_words": "آدمهاست"
- },
- {
-   "stop_words": "آرام"
- },
- {
-   "stop_words": "آره"
- },
- {
-   "stop_words": "آری"
- },
- {
-   "stop_words": "آزادانه"
- },
- {
-   "stop_words": "آسان"
- },
- {
-   "stop_words": "آسانی"
- },
- {
-   "stop_words": "آسیب"
- },
- {
-   "stop_words": "آشنایند"
- },
- {
-   "stop_words": "آشکارا"
- },
- {
-   "stop_words": "آور"
- },
- {
-   "stop_words": "آورد"
- },
- {
-   "stop_words": "آوردن"
- },
- {
-   "stop_words": "آورده"
- },
- {
-   "stop_words": "آوه"
- },
- {
-   "stop_words": "آيد"
- },
- {
-   "stop_words": "آقا"
- },
- {
-   "stop_words": "آن"
- },
- {
-   "stop_words": "آن‌ها"
- },
- {
-   "stop_words": "آنان"
- },
- {
-   "stop_words": "آنانی"
- },
- {
-   "stop_words": "آنجا"
- },
- {
-   "stop_words": "آنرا"
- },
- {
-   "stop_words": "آنطور"
- },
- {
-   "stop_words": "آنكه"
- },
- {
-   "stop_words": "آنقدر"
- },
- {
-   "stop_words": "آنها"
- },
- {
-   "stop_words": "آنهاست"
- },
- {
-   "stop_words": "آنکه"
- },
- {
-   "stop_words": "آنگاه"
- },
- {
-   "stop_words": "آنچنان"
- },
- {
-   "stop_words": "آنچه"
- },
- {
-   "stop_words": "آهان"
- },
- {
-   "stop_words": "آهای"
- },
- {
-   "stop_words": "آمد"
- },
- {
-   "stop_words": "آمدن"
- },
- {
-   "stop_words": "آمده"
- },
- {
-   "stop_words": "آمرانه"
- },
- {
-   "stop_words": "آی"
- },
- {
-   "stop_words": "آیا"
- },
- {
-   "stop_words": "آید"
- },
- {
-   "stop_words": "آیند"
- },
- {
-   "stop_words": "ابدا"
- },
- {
-   "stop_words": "ابلهانه"
- },
- {
-   "stop_words": "اثر"
- },
- {
-   "stop_words": "اثرِ"
- },
- {
-   "stop_words": "اجراست"
- },
- {
-   "stop_words": "احتراما"
- },
- {
-   "stop_words": "احتمالا"
- },
- {
-   "stop_words": "احيانا"
- },
- {
-   "stop_words": "احیاناً"
- },
- {
-   "stop_words": "اخ"
- },
- {
-   "stop_words": "اخر"
- },
- {
-   "stop_words": "اخرها"
- },
- {
-   "stop_words": "اختصارا"
- },
- {
-   "stop_words": "اخيرا"
- },
- {
-   "stop_words": "اخه"
- },
- {
-   "stop_words": "اخیر"
- },
- {
-   "stop_words": "اخیرا"
- },
- {
-   "stop_words": "اخیراً"
- },
- {
-   "stop_words": "ار"
- },
- {
-   "stop_words": "اراسته"
- },
- {
-   "stop_words": "ارام"
- },
- {
-   "stop_words": "ارایه"
- },
- {
-   "stop_words": "ارة"
- },
- {
-   "stop_words": "ارنه"
- },
- {
-   "stop_words": "اره"
- },
- {
-   "stop_words": "اری"
- },
- {
-   "stop_words": "از"
- },
- {
-   "stop_words": "ازادانه"
- },
- {
-   "stop_words": "ازاين"
- },
- {
-   "stop_words": "ازاينرو"
- },
- {
-   "stop_words": "ازان"
- },
- {
-   "stop_words": "ازانجا"
- },
- {
-   "stop_words": "ازانجاكه"
- },
- {
-   "stop_words": "ازاین"
- },
- {
-   "stop_words": "ازبه"
- },
- {
-   "stop_words": "ازجمله"
- },
- {
-   "stop_words": "ازروي"
- },
- {
-   "stop_words": "ازسر"
- },
- {
-   "stop_words": "ازش"
- },
- {
-   "stop_words": "ازو"
- },
- {
-   "stop_words": "ازيك"
- },
- {
-   "stop_words": "ازقبيل"
- },
- {
-   "stop_words": "ازلحاظ"
- },
- {
-   "stop_words": "ازنظر"
- },
- {
-   "stop_words": "اساس"
- },
- {
-   "stop_words": "اساسا"
- },
- {
-   "stop_words": "اساساً"
- },
- {
-   "stop_words": "اسان"
- },
- {
-   "stop_words": "اسانتر"
- },
- {
-   "stop_words": "اساني"
- },
- {
-   "stop_words": "است"
- },
- {
-   "stop_words": "استفاد"
- },
- {
-   "stop_words": "استفاده"
- },
- {
-   "stop_words": "اش"
- },
- {
-   "stop_words": "اشان"
- },
- {
-   "stop_words": "اشد"
- },
- {
-   "stop_words": "اشتباها"
- },
- {
-   "stop_words": "اشكار"
- },
- {
-   "stop_words": "اشكارا"
- },
- {
-   "stop_words": "اشكارتر"
- },
- {
-   "stop_words": "اشيم"
- },
- {
-   "stop_words": "اشفته"
- },
- {
-   "stop_words": "اشنايند"
- },
- {
-   "stop_words": "اشند"
- },
- {
-   "stop_words": "اشکارا"
- },
- {
-   "stop_words": "اصطلاجا"
- },
- {
-   "stop_words": "اصطلاحا"
- },
- {
-   "stop_words": "اصولا"
- },
- {
-   "stop_words": "اصولاً"
- },
- {
-   "stop_words": "اصلا"
- },
- {
-   "stop_words": "اصلاً"
- },
- {
-   "stop_words": "اطلاعند"
- },
- {
-   "stop_words": "اعلام"
- },
- {
-   "stop_words": "اغلب"
- },
- {
-   "stop_words": "ات"
- },
- {
-   "stop_words": "اتفاقا"
- },
- {
-   "stop_words": "اكثر"
- },
- {
-   "stop_words": "اكثرا"
- },
- {
-   "stop_words": "اكثريت"
- },
- {
-   "stop_words": "اكتسابا"
- },
- {
-   "stop_words": "اكنون"
- },
- {
-   "stop_words": "او"
- },
- {
-   "stop_words": "اورد"
- },
- {
-   "stop_words": "اوردن"
- },
- {
-   "stop_words": "اوست"
- },
- {
-   "stop_words": "اويي"
- },
- {
-   "stop_words": "اول"
- },
- {
-   "stop_words": "اولا"
- },
- {
-   "stop_words": "اولاً"
- },
- {
-   "stop_words": "اولش"
- },
- {
-   "stop_words": "اولین"
- },
- {
-   "stop_words": "اون"
- },
- {
-   "stop_words": "اونا"
- },
- {
-   "stop_words": "اونجا"
- },
- {
-   "stop_words": "اونهمه"
- },
- {
-   "stop_words": "اوه"
- },
- {
-   "stop_words": "اي"
- },
- {
-   "stop_words": "ايا"
- },
- {
-   "stop_words": "ايد"
- },
- {
-   "stop_words": "ايشان"
- },
- {
-   "stop_words": "اين"
- },
- {
-   "stop_words": "اينان"
- },
- {
-   "stop_words": "اينجا"
- },
- {
-   "stop_words": "اينجاست"
- },
- {
-   "stop_words": "اينجور"
- },
- {
-   "stop_words": "اينجوري"
- },
- {
-   "stop_words": "اينرو"
- },
- {
-   "stop_words": "اينست"
- },
- {
-   "stop_words": "اينطور"
- },
- {
-   "stop_words": "اينك"
- },
- {
-   "stop_words": "اينكه"
- },
- {
-   "stop_words": "اينو"
- },
- {
-   "stop_words": "اينقدر"
- },
- {
-   "stop_words": "اينها"
- },
- {
-   "stop_words": "اينهاست"
- },
- {
-   "stop_words": "اينهمه"
- },
- {
-   "stop_words": "اينگونه"
- },
- {
-   "stop_words": "اينچنين"
- },
- {
-   "stop_words": "ايم"
- },
- {
-   "stop_words": "افزود"
- },
- {
-   "stop_words": "افقي"
- },
- {
-   "stop_words": "اقل"
- },
- {
-   "stop_words": "اقلا"
- },
- {
-   "stop_words": "الا"
- },
- {
-   "stop_words": "الاسف"
- },
- {
-   "stop_words": "الان"
- },
- {
-   "stop_words": "الایِ"
- },
- {
-   "stop_words": "البتّه"
- },
- {
-   "stop_words": "البته"
- },
- {
-   "stop_words": "الزاما"
- },
- {
-   "stop_words": "الظاهر"
- },
- {
-   "stop_words": "التّه"
- },
- {
-   "stop_words": "الته"
- },
- {
-   "stop_words": "الي"
- },
- {
-   "stop_words": "الهي"
- },
- {
-   "stop_words": "الهی"
- },
- {
-   "stop_words": "المقدور"
- },
- {
-   "stop_words": "الی"
- },
- {
-   "stop_words": "ان"
- },
- {
-   "stop_words": "انان"
- },
- {
-   "stop_words": "اناني"
- },
- {
-   "stop_words": "انجا"
- },
- {
-   "stop_words": "انجام"
- },
- {
-   "stop_words": "اند"
- },
- {
-   "stop_words": "اندك"
- },
- {
-   "stop_words": "اندكي"
- },
- {
-   "stop_words": "اندکی"
- },
- {
-   "stop_words": "انرا"
- },
- {
-   "stop_words": "انشاالله"
- },
- {
-   "stop_words": "انصافا"
- },
- {
-   "stop_words": "انطور"
- },
- {
-   "stop_words": "انتها"
- },
- {
-   "stop_words": "انكس"
- },
- {
-   "stop_words": "انكه"
- },
- {
-   "stop_words": "انوقت"
- },
- {
-   "stop_words": "انقدر"
- },
- {
-   "stop_words": "انها"
- },
- {
-   "stop_words": "انهاست"
- },
- {
-   "stop_words": "انم"
- },
- {
-   "stop_words": "انکه"
- },
- {
-   "stop_words": "انگار"
- },
- {
-   "stop_words": "انگاه"
- },
- {
-   "stop_words": "انگونه"
- },
- {
-   "stop_words": "انگه"
- },
- {
-   "stop_words": "انچنان"
- },
- {
-   "stop_words": "انچه"
- },
- {
-   "stop_words": "اه"
- },
- {
-   "stop_words": "اهاي"
- },
- {
-   "stop_words": "اهان"
- },
- {
-   "stop_words": "ام"
- },
- {
-   "stop_words": "اما"
- },
- {
-   "stop_words": "امان"
- },
- {
-   "stop_words": "امرانه"
- },
- {
-   "stop_words": "امور"
- },
- {
-   "stop_words": "اميدواريم"
- },
- {
-   "stop_words": "اميدوارند"
- },
- {
-   "stop_words": "اميدوارم"
- },
- {
-   "stop_words": "امیدوارند"
- },
- {
-   "stop_words": "امیدوارم"
- },
- {
-   "stop_words": "امیدواریم"
- },
- {
-   "stop_words": "اکثر"
- },
- {
-   "stop_words": "اکثرا"
- },
- {
-   "stop_words": "اکثراً"
- },
- {
-   "stop_words": "اکثریت"
- },
- {
-   "stop_words": "اکنون"
- },
- {
-   "stop_words": "اگاهانه"
- },
- {
-   "stop_words": "اگر"
- },
- {
-   "stop_words": "اگرنه"
- },
- {
-   "stop_words": "اگرچه"
- },
- {
-   "stop_words": "اگه"
- },
- {
-   "stop_words": "ای"
- },
- {
-   "stop_words": "ایا"
- },
- {
-   "stop_words": "اید"
- },
- {
-   "stop_words": "ایشان"
- },
- {
-   "stop_words": "این"
- },
- {
-   "stop_words": "این‌ها"
- },
- {
-   "stop_words": "اینا"
- },
- {
-   "stop_words": "اینان"
- },
- {
-   "stop_words": "اینجا"
- },
- {
-   "stop_words": "اینجاست"
- },
- {
-   "stop_words": "اینجور"
- },
- {
-   "stop_words": "ایند"
- },
- {
-   "stop_words": "اینطور"
- },
- {
-   "stop_words": "اینطوری"
- },
- {
-   "stop_words": "اینكه"
- },
- {
-   "stop_words": "اینو"
- },
- {
-   "stop_words": "اینقدر"
- },
- {
-   "stop_words": "اینها"
- },
- {
-   "stop_words": "اینهاست"
- },
- {
-   "stop_words": "اینک"
- },
- {
-   "stop_words": "اینکه"
- },
- {
-   "stop_words": "اینگونه"
- },
- {
-   "stop_words": "اینچنین"
- },
- {
-   "stop_words": "ایم"
- },
- {
-   "stop_words": "ب"
- },
- {
-   "stop_words": "با"
- },
- {
-   "stop_words": "بااطمينان"
- },
- {
-   "stop_words": "بااين"
- },
- {
-   "stop_words": "بااينكه"
- },
- {
-   "stop_words": "باانكه"
- },
- {
-   "stop_words": "بااین"
- },
- {
-   "stop_words": "باد"
- },
- {
-   "stop_words": "بار"
- },
- {
-   "stop_words": "بارة"
- },
- {
-   "stop_words": "باره"
- },
- {
-   "stop_words": "بارها"
- },
- {
-   "stop_words": "بارهاوبارها"
- },
- {
-   "stop_words": "بارهٌ"
- },
- {
-   "stop_words": "باز"
- },
- {
-   "stop_words": "بازانديشانه"
- },
- {
-   "stop_words": "بازيگوشانه"
- },
- {
-   "stop_words": "بازهم"
- },
- {
-   "stop_words": "بازم"
- },
- {
-   "stop_words": "بازی"
- },
- {
-   "stop_words": "بازیگوشانه"
- },
- {
-   "stop_words": "باستثناي"
- },
- {
-   "stop_words": "باش"
- },
- {
-   "stop_words": "باشد"
- },
- {
-   "stop_words": "باشيم"
- },
- {
-   "stop_words": "باشند"
- },
- {
-   "stop_words": "باشه"
- },
- {
-   "stop_words": "باشم"
- },
- {
-   "stop_words": "باشی"
- },
- {
-   "stop_words": "باشید"
- },
- {
-   "stop_words": "باشیم"
- },
- {
-   "stop_words": "باعلاقه"
- },
- {
-   "stop_words": "باتوجه"
- },
- {
-   "stop_words": "باوجود"
- },
- {
-   "stop_words": "باوجوداينكه"
- },
- {
-   "stop_words": "باوجودانكه"
- },
- {
-   "stop_words": "باوجوديكه"
- },
- {
-   "stop_words": "باوجودی"
- },
- {
-   "stop_words": "باورند"
- },
- {
-   "stop_words": "بايد"
- },
- {
-   "stop_words": "بايستي"
- },
- {
-   "stop_words": "بالا"
- },
- {
-   "stop_words": "بالاخره"
- },
- {
-   "stop_words": "بالاخص"
- },
- {
-   "stop_words": "بالاست"
- },
- {
-   "stop_words": "بالاتر"
- },
- {
-   "stop_words": "بالاي"
- },
- {
-   "stop_words": "بالای"
- },
- {
-   "stop_words": "بالایِ"
- },
- {
-   "stop_words": "بالضرور"
- },
- {
-   "stop_words": "بالطبع"
- },
- {
-   "stop_words": "بالعكس"
- },
- {
-   "stop_words": "بالعکس"
- },
- {
-   "stop_words": "بالقوه"
- },
- {
-   "stop_words": "بالله"
- },
- {
-   "stop_words": "بالنسبه"
- },
- {
-   "stop_words": "بالنتيجه"
- },
- {
-   "stop_words": "باهم"
- },
- {
-   "stop_words": "باید"
- },
- {
-   "stop_words": "بجا"
- },
- {
-   "stop_words": "بجاي"
- },
- {
-   "stop_words": "بجز"
- },
- {
-   "stop_words": "بخاطر"
- },
- {
-   "stop_words": "بخاطراينكه"
- },
- {
-   "stop_words": "بخردانه"
- },
- {
-   "stop_words": "بخش"
- },
- {
-   "stop_words": "بخشه"
- },
- {
-   "stop_words": "بخشی"
- },
- {
-   "stop_words": "بخصوص"
- },
- {
-   "stop_words": "بخواه"
- },
- {
-   "stop_words": "بخواهد"
- },
- {
-   "stop_words": "بخواهند"
- },
- {
-   "stop_words": "بخواهم"
- },
- {
-   "stop_words": "بخواهی"
- },
- {
-   "stop_words": "بخواهید"
- },
- {
-   "stop_words": "بخواهیم"
- },
- {
-   "stop_words": "بخوبي"
- },
- {
-   "stop_words": "بخوبی"
- },
- {
-   "stop_words": "بد"
- },
- {
-   "stop_words": "بدان"
- },
- {
-   "stop_words": "بدانجا"
- },
- {
-   "stop_words": "بدانها"
- },
- {
-   "stop_words": "بدبينانه"
- },
- {
-   "stop_words": "بدخواهانه"
- },
- {
-   "stop_words": "بدرستي"
- },
- {
-   "stop_words": "بدرشتي"
- },
- {
-   "stop_words": "بدون"
- },
- {
-   "stop_words": "بدين"
- },
- {
-   "stop_words": "بدينجا"
- },
- {
-   "stop_words": "بدينسان"
- },
- {
-   "stop_words": "بدلخواه"
- },
- {
-   "stop_words": "بدهید"
- },
- {
-   "stop_words": "بدم"
- },
- {
-   "stop_words": "بدین"
- },
- {
-   "stop_words": "بدینجا"
- },
- {
-   "stop_words": "بر"
- },
- {
-   "stop_words": "برآن"
- },
- {
-   "stop_words": "برآنند"
- },
- {
-   "stop_words": "برا"
- },
- {
-   "stop_words": "برابر"
- },
- {
-   "stop_words": "برابرِ"
- },
- {
-   "stop_words": "براثر"
- },
- {
-   "stop_words": "براحتی"
- },
- {
-   "stop_words": "براساس"
- },
- {
-   "stop_words": "براستي"
- },
- {
-   "stop_words": "براستی"
- },
- {
-   "stop_words": "براي"
- },
- {
-   "stop_words": "برايش"
- },
- {
-   "stop_words": "برايشان"
- },
- {
-   "stop_words": "برايت"
- },
- {
-   "stop_words": "برايم"
- },
- {
-   "stop_words": "برايمان"
- },
- {
-   "stop_words": "بران"
- },
- {
-   "stop_words": "برانند"
- },
- {
-   "stop_words": "برانهاست"
- },
- {
-   "stop_words": "برای"
- },
- {
-   "stop_words": "برایش"
- },
- {
-   "stop_words": "برایشان"
- },
- {
-   "stop_words": "برایت"
- },
- {
-   "stop_words": "برایِ"
- },
- {
-   "stop_words": "برایم"
- },
- {
-   "stop_words": "برایمان"
- },
- {
-   "stop_words": "برحسب"
- },
- {
-   "stop_words": "برخوردار"
- },
- {
-   "stop_words": "برخوردارند"
- },
- {
-   "stop_words": "برخي"
- },
- {
-   "stop_words": "برخلاف"
- },
- {
-   "stop_words": "برخی"
- },
- {
-   "stop_words": "برداري"
- },
- {
-   "stop_words": "برداری"
- },
- {
-   "stop_words": "برداشتن"
- },
- {
-   "stop_words": "بردن"
- },
- {
-   "stop_words": "برروي"
- },
- {
-   "stop_words": "برعكس"
- },
- {
-   "stop_words": "برعکس"
- },
- {
-   "stop_words": "برغم"
- },
- {
-   "stop_words": "برپا"
- },
- {
-   "stop_words": "برو"
- },
- {
-   "stop_words": "بروز"
- },
- {
-   "stop_words": "بروشني"
- },
- {
-   "stop_words": "بروشنی"
- },
- {
-   "stop_words": "برنامه"
- },
- {
-   "stop_words": "برنمي"
- },
- {
-   "stop_words": "برمي"
- },
- {
-   "stop_words": "بری"
- },
- {
-   "stop_words": "برید"
- },
- {
-   "stop_words": "بریزید"
- },
- {
-   "stop_words": "بریم"
- },
- {
-   "stop_words": "بزرگ"
- },
- {
-   "stop_words": "بزعم"
- },
- {
-   "stop_words": "بزودي"
- },
- {
-   "stop_words": "بزودی"
- },
- {
-   "stop_words": "بزنید"
- },
- {
-   "stop_words": "بس"
- },
- {
-   "stop_words": "بسا"
- },
- {
-   "stop_words": "بسادگي"
- },
- {
-   "stop_words": "بسادگی"
- },
- {
-   "stop_words": "بسختي"
- },
- {
-   "stop_words": "بسختی"
- },
- {
-   "stop_words": "بسرعت"
- },
- {
-   "stop_words": "بسته"
- },
- {
-   "stop_words": "بسوي"
- },
- {
-   "stop_words": "بسوی"
- },
- {
-   "stop_words": "بسي"
- },
- {
-   "stop_words": "بسيار"
- },
- {
-   "stop_words": "بسياري"
- },
- {
-   "stop_words": "بسهولت"
- },
- {
-   "stop_words": "بسی"
- },
- {
-   "stop_words": "بسیار"
- },
- {
-   "stop_words": "بسیاری"
- },
- {
-   "stop_words": "بشان"
- },
- {
-   "stop_words": "بشدت"
- },
- {
-   "stop_words": "بشوند"
- },
- {
-   "stop_words": "بشن"
- },
- {
-   "stop_words": "بشم"
- },
- {
-   "stop_words": "بشی"
- },
- {
-   "stop_words": "بشید"
- },
- {
-   "stop_words": "بصورت"
- },
- {
-   "stop_words": "بطبع"
- },
- {
-   "stop_words": "بطور"
- },
- {
-   "stop_words": "بطوركلي"
- },
- {
-   "stop_words": "بطوري"
- },
- {
-   "stop_words": "بطوريكه"
- },
- {
-   "stop_words": "بطوری"
- },
- {
-   "stop_words": "بعد"
- },
- {
-   "stop_words": "بعدا"
- },
- {
-   "stop_words": "بعداز"
- },
- {
-   "stop_words": "بعدازاين"
- },
- {
-   "stop_words": "بعدازان"
- },
- {
-   "stop_words": "بعدازظهر"
- },
- {
-   "stop_words": "بعداً"
- },
- {
-   "stop_words": "بعدي"
- },
- {
-   "stop_words": "بعدها"
- },
- {
-   "stop_words": "بعری"
- },
- {
-   "stop_words": "بعضا"
- },
- {
-   "stop_words": "بعضي"
- },
- {
-   "stop_words": "بعضيشان"
- },
- {
-   "stop_words": "بعضيها"
- },
- {
-   "stop_words": "بعضيهاشان"
- },
- {
-   "stop_words": "بعضيهايشان"
- },
- {
-   "stop_words": "بعضی"
- },
- {
-   "stop_words": "بعضی‌ها"
- },
- {
-   "stop_words": "بعضیهایشان"
- },
- {
-   "stop_words": "بعيد"
- },
- {
-   "stop_words": "بعلاوه"
- },
- {
-   "stop_words": "بعید"
- },
- {
-   "stop_words": "بتازگي"
- },
- {
-   "stop_words": "بتدريج"
- },
- {
-   "stop_words": "بتدریج"
- },
- {
-   "stop_words": "بتوان"
- },
- {
-   "stop_words": "بتواند"
- },
- {
-   "stop_words": "بتوانی"
- },
- {
-   "stop_words": "بتوانیم"
- },
- {
-   "stop_words": "بتمامي"
- },
- {
-   "stop_words": "بپا"
- },
- {
-   "stop_words": "بكار"
- },
- {
-   "stop_words": "بكرات"
- },
- {
-   "stop_words": "بوجود"
- },
- {
-   "stop_words": "بود"
- },
- {
-   "stop_words": "بودن"
- },
- {
-   "stop_words": "بودند"
- },
- {
-   "stop_words": "بوده"
- },
- {
-   "stop_words": "بودم"
- },
- {
-   "stop_words": "بودی"
- },
- {
-   "stop_words": "بودید"
- },
- {
-   "stop_words": "بودیم"
- },
- {
-   "stop_words": "بوضوح"
- },
- {
-   "stop_words": "بويژه"
- },
- {
-   "stop_words": "بویژه"
- },
- {
-   "stop_words": "بي"
- },
- {
-   "stop_words": "بيرون"
- },
- {
-   "stop_words": "بيست"
- },
- {
-   "stop_words": "بيش"
- },
- {
-   "stop_words": "بيشتر"
- },
- {
-   "stop_words": "بيشتري"
- },
- {
-   "stop_words": "بين"
- },
- {
-   "stop_words": "بينابين"
- },
- {
-   "stop_words": "بيهوده"
- },
- {
-   "stop_words": "بيگمان"
- },
- {
-   "stop_words": "بفهمي"
- },
- {
-   "stop_words": "بفهمی"
- },
- {
-   "stop_words": "بقدري"
- },
- {
-   "stop_words": "بلادرنگ"
- },
- {
-   "stop_words": "بلافاصله"
- },
- {
-   "stop_words": "بلكه"
- },
- {
-   "stop_words": "بله"
- },
- {
-   "stop_words": "بلکه"
- },
- {
-   "stop_words": "بلی"
- },
- {
-   "stop_words": "بنابراين"
- },
- {
-   "stop_words": "بنابراین"
- },
- {
-   "stop_words": "بنابه"
- },
- {
-   "stop_words": "بناچار"
- },
- {
-   "stop_words": "بندرت"
- },
- {
-   "stop_words": "بندي"
- },
- {
-   "stop_words": "بندی"
- },
- {
-   "stop_words": "به"
- },
- {
-   "stop_words": "بهرحال"
- },
- {
-   "stop_words": "بهش"
- },
- {
-   "stop_words": "بهشون"
- },
- {
-   "stop_words": "بهت"
- },
- {
-   "stop_words": "بهتر"
- },
- {
-   "stop_words": "بهترين"
- },
- {
-   "stop_words": "بهترین"
- },
- {
-   "stop_words": "بهيچ"
- },
- {
-   "stop_words": "بهم"
- },
- {
-   "stop_words": "بماند"
- },
- {
-   "stop_words": "بمراتب"
- },
- {
-   "stop_words": "بموجب"
- },
- {
-   "stop_words": "بموقع"
- },
- {
-   "stop_words": "بکار"
- },
- {
-   "stop_words": "بکن"
- },
- {
-   "stop_words": "بکند"
- },
- {
-   "stop_words": "بکنند"
- },
- {
-   "stop_words": "بکنم"
- },
- {
-   "stop_words": "بکنی"
- },
- {
-   "stop_words": "بکنید"
- },
- {
-   "stop_words": "بکنیم"
- },
- {
-   "stop_words": "بگذاریم"
- },
- {
-   "stop_words": "بگرمي"
- },
- {
-   "stop_words": "بگو"
- },
- {
-   "stop_words": "بگوید"
- },
- {
-   "stop_words": "بگویند"
- },
- {
-   "stop_words": "بگویم"
- },
- {
-   "stop_words": "بگویی"
- },
- {
-   "stop_words": "بگویید"
- },
- {
-   "stop_words": "بگوییم"
- },
- {
-   "stop_words": "بگیر"
- },
- {
-   "stop_words": "بگیرد"
- },
- {
-   "stop_words": "بگیرند"
- },
- {
-   "stop_words": "بگیرم"
- },
- {
-   "stop_words": "بگیری"
- },
- {
-   "stop_words": "بگیرید"
- },
- {
-   "stop_words": "بگیریم"
- },
- {
-   "stop_words": "بی"
- },
- {
-   "stop_words": "بیا"
- },
- {
-   "stop_words": "بیاب"
- },
- {
-   "stop_words": "بیابد"
- },
- {
-   "stop_words": "بیابند"
- },
- {
-   "stop_words": "بیابم"
- },
- {
-   "stop_words": "بیابی"
- },
- {
-   "stop_words": "بیابید"
- },
- {
-   "stop_words": "بیابیم"
- },
- {
-   "stop_words": "بیاد"
- },
- {
-   "stop_words": "بیاریم"
- },
- {
-   "stop_words": "بیاور"
- },
- {
-   "stop_words": "بیاورد"
- },
- {
-   "stop_words": "بیاورند"
- },
- {
-   "stop_words": "بیاورم"
- },
- {
-   "stop_words": "بیاوری"
- },
- {
-   "stop_words": "بیاورید"
- },
- {
-   "stop_words": "بیاوریم"
- },
- {
-   "stop_words": "بیاید"
- },
- {
-   "stop_words": "بیایند"
- },
- {
-   "stop_words": "بیایم"
- },
- {
-   "stop_words": "بیایی"
- },
- {
-   "stop_words": "بیایید"
- },
- {
-   "stop_words": "بیاییم"
- },
- {
-   "stop_words": "بیرون"
- },
- {
-   "stop_words": "بیرونِ"
- },
- {
-   "stop_words": "بیست"
- },
- {
-   "stop_words": "بیش"
- },
- {
-   "stop_words": "بیشتر"
- },
- {
-   "stop_words": "بیشتری"
- },
- {
-   "stop_words": "بین"
- },
- {
-   "stop_words": "بینمان"
- },
- {
-   "stop_words": "بیگمان"
- },
- {
-   "stop_words": "ث"
- },
- {
-   "stop_words": "ثالثا"
- },
- {
-   "stop_words": "ثالثاً"
- },
- {
-   "stop_words": "ثاني"
- },
- {
-   "stop_words": "ثانيا"
- },
- {
-   "stop_words": "ثانی"
- },
- {
-   "stop_words": "ثانیا"
- },
- {
-   "stop_words": "ثانیاً"
- },
- {
-   "stop_words": "ج"
- },
- {
-   "stop_words": "جا"
- },
- {
-   "stop_words": "جاي"
- },
- {
-   "stop_words": "جايي"
- },
- {
-   "stop_words": "جای"
- },
- {
-   "stop_words": "جایی"
- },
- {
-   "stop_words": "جبرگرايانه"
- },
- {
-   "stop_words": "جدا"
- },
- {
-   "stop_words": "جدااز"
- },
- {
-   "stop_words": "جداازهم"
- },
- {
-   "stop_words": "جداً"
- },
- {
-   "stop_words": "جداگانه"
- },
- {
-   "stop_words": "جدي"
- },
- {
-   "stop_words": "جديد"
- },
- {
-   "stop_words": "جديدا"
- },
- {
-   "stop_words": "جدید"
- },
- {
-   "stop_words": "جدیدا"
- },
- {
-   "stop_words": "جريان"
- },
- {
-   "stop_words": "جرمزاست"
- },
- {
-   "stop_words": "جریان"
- },
- {
-   "stop_words": "جز"
- },
- {
-   "stop_words": "جزجز"
- },
- {
-   "stop_words": "جسورانه"
- },
- {
-   "stop_words": "جور"
- },
- {
-   "stop_words": "جوري"
- },
- {
-   "stop_words": "جوری"
- },
- {
-   "stop_words": "جلو"
- },
- {
-   "stop_words": "جلوتر"
- },
- {
-   "stop_words": "جلوي"
- },
- {
-   "stop_words": "جلويري"
- },
- {
-   "stop_words": "جلوگيري"
- },
- {
-   "stop_words": "جلوگیری"
- },
- {
-   "stop_words": "جلوی"
- },
- {
-   "stop_words": "جلویِ"
- },
- {
-   "stop_words": "جنابعالي"
- },
- {
-   "stop_words": "جنابعالی"
- },
- {
-   "stop_words": "جناح"
- },
- {
-   "stop_words": "جنس"
- },
- {
-   "stop_words": "جهت"
- },
- {
-   "stop_words": "جمع"
- },
- {
-   "stop_words": "جمعا"
- },
- {
-   "stop_words": "جمعي"
- },
- {
-   "stop_words": "جمعی"
- },
- {
-   "stop_words": "جمله"
- },
- {
-   "stop_words": "ح"
- },
- {
-   "stop_words": "حاشا"
- },
- {
-   "stop_words": "حاشاوكلا"
- },
- {
-   "stop_words": "حاشيه"
- },
- {
-   "stop_words": "حاشیه‌ای"
- },
- {
-   "stop_words": "حاضر"
- },
- {
-   "stop_words": "حاضرم"
- },
- {
-   "stop_words": "حاكيست"
- },
- {
-   "stop_words": "حال"
- },
- {
-   "stop_words": "حالا"
- },
- {
-   "stop_words": "حالكه"
- },
- {
-   "stop_words": "حالي"
- },
- {
-   "stop_words": "حاکیست"
- },
- {
-   "stop_words": "حداكثر"
- },
- {
-   "stop_words": "حداقل"
- },
- {
-   "stop_words": "حداکثر"
- },
- {
-   "stop_words": "حدود"
- },
- {
-   "stop_words": "حدودا"
- },
- {
-   "stop_words": "حدودِ"
- },
- {
-   "stop_words": "حرف"
- },
- {
-   "stop_words": "حسابي"
- },
- {
-   "stop_words": "حسابگرانه"
- },
- {
-   "stop_words": "حسابی"
- },
- {
-   "stop_words": "حسب"
- },
- {
-   "stop_words": "حضرتعالي"
- },
- {
-   "stop_words": "حضرتعالی"
- },
- {
-   "stop_words": "حتي"
- },
- {
-   "stop_words": "حتما"
- },
- {
-   "stop_words": "حتماً"
- },
- {
-   "stop_words": "حتی"
- },
- {
-   "stop_words": "حكيمانه"
- },
- {
-   "stop_words": "حكما"
- },
- {
-   "stop_words": "حول"
- },
- {
-   "stop_words": "حق"
- },
- {
-   "stop_words": "حقيرانه"
- },
- {
-   "stop_words": "حقيقتا"
- },
- {
-   "stop_words": "حقیرانه"
- },
- {
-   "stop_words": "حقیقتا"
- },
- {
-   "stop_words": "حکماً"
- },
- {
-   "stop_words": "خ"
- },
- {
-   "stop_words": "خارج"
- },
- {
-   "stop_words": "خارجِ"
- },
- {
-   "stop_words": "خاست"
- },
- {
-   "stop_words": "خالص"
- },
- {
-   "stop_words": "خالصانه"
- },
- {
-   "stop_words": "خالي"
- },
- {
-   "stop_words": "خام"
- },
- {
-   "stop_words": "خامسا"
- },
- {
-   "stop_words": "خب"
- },
- {
-   "stop_words": "خداحافظ"
- },
- {
-   "stop_words": "خداست"
- },
- {
-   "stop_words": "خداگونه"
- },
- {
-   "stop_words": "خدمات"
- },
- {
-   "stop_words": "خردمندانه"
- },
- {
-   "stop_words": "خسته"
- },
- {
-   "stop_words": "خسته‌ای"
- },
- {
-   "stop_words": "خشمگين"
- },
- {
-   "stop_words": "خصوصا"
- },
- {
-   "stop_words": "خصوصاً"
- },
- {
-   "stop_words": "خصمانه"
- },
- {
-   "stop_words": "خواست"
- },
- {
-   "stop_words": "خواستن"
- },
- {
-   "stop_words": "خواستند"
- },
- {
-   "stop_words": "خواسته"
- },
- {
-   "stop_words": "خواستم"
- },
- {
-   "stop_words": "خواستی"
- },
- {
-   "stop_words": "خواستید"
- },
- {
-   "stop_words": "خواستیم"
- },
- {
-   "stop_words": "خواه"
- },
- {
-   "stop_words": "خواهد"
- },
- {
-   "stop_words": "خواهش"
- },
- {
-   "stop_words": "خواهيم"
- },
- {
-   "stop_words": "خواهند"
- },
- {
-   "stop_words": "خواهم"
- },
- {
-   "stop_words": "خواهی"
- },
- {
-   "stop_words": "خواهید"
- },
- {
-   "stop_words": "خواهیم"
- },
- {
-   "stop_words": "خواهیمكرد"
- },
- {
-   "stop_words": "خوب"
- },
- {
-   "stop_words": "خوبست"
- },
- {
-   "stop_words": "خوبتر"
- },
- {
-   "stop_words": "خوبي"
- },
- {
-   "stop_words": "خوبی"
- },
- {
-   "stop_words": "خود"
- },
- {
-   "stop_words": "خوداند"
- },
- {
-   "stop_words": "خوداگاهانه"
- },
- {
-   "stop_words": "خودبه"
- },
- {
-   "stop_words": "خودرا"
- },
- {
-   "stop_words": "خودش"
- },
- {
-   "stop_words": "خودشان"
- },
- {
-   "stop_words": "خودت"
- },
- {
-   "stop_words": "خودتان"
- },
- {
-   "stop_words": "خودتو"
- },
- {
-   "stop_words": "خودي"
- },
- {
-   "stop_words": "خودنمايانه"
- },
- {
-   "stop_words": "خودم"
- },
- {
-   "stop_words": "خودمان"
- },
- {
-   "stop_words": "خودمختارانه"
- },
- {
-   "stop_words": "خودمو"
- },
- {
-   "stop_words": "خودی"
- },
- {
-   "stop_words": "خوردن"
- },
- {
-   "stop_words": "خوش"
- },
- {
-   "stop_words": "خوشبختانه"
- },
- {
-   "stop_words": "خوشبينانه"
- },
- {
-   "stop_words": "خوشحال"
- },
- {
-   "stop_words": "خوتهد"
- },
- {
-   "stop_words": "خويش"
- },
- {
-   "stop_words": "خويشتنم"
- },
- {
-   "stop_words": "خوگيرانه"
- },
- {
-   "stop_words": "خویش"
- },
- {
-   "stop_words": "خویشتن"
- },
- {
-   "stop_words": "خویشتنم"
- },
- {
-   "stop_words": "خير"
- },
- {
-   "stop_words": "خيره"
- },
- {
-   "stop_words": "خيلي"
- },
- {
-   "stop_words": "خلاصه"
- },
- {
-   "stop_words": "خلاقانه"
- },
- {
-   "stop_words": "خیاه"
- },
- {
-   "stop_words": "خیر"
- },
- {
-   "stop_words": "خیره"
- },
- {
-   "stop_words": "خیلی"
- },
- {
-   "stop_words": "د"
- },
- {
-   "stop_words": "دا"
- },
- {
-   "stop_words": "داام"
- },
- {
-   "stop_words": "دااما"
- },
- {
-   "stop_words": "داخل"
- },
- {
-   "stop_words": "داد"
- },
- {
-   "stop_words": "دادن"
- },
- {
-   "stop_words": "دادند"
- },
- {
-   "stop_words": "داده"
- },
- {
-   "stop_words": "دادم"
- },
- {
-   "stop_words": "دادی"
- },
- {
-   "stop_words": "دادید"
- },
- {
-   "stop_words": "دادیم"
- },
- {
-   "stop_words": "دار"
- },
- {
-   "stop_words": "دارا"
- },
- {
-   "stop_words": "داراست"
- },
- {
-   "stop_words": "داراي"
- },
- {
-   "stop_words": "دارای"
- },
- {
-   "stop_words": "دارد"
- },
- {
-   "stop_words": "داريم"
- },
- {
-   "stop_words": "دارند"
- },
- {
-   "stop_words": "داره"
- },
- {
-   "stop_words": "دارم"
- },
- {
-   "stop_words": "داری"
- },
- {
-   "stop_words": "دارید"
- },
- {
-   "stop_words": "داریم"
- },
- {
-   "stop_words": "داشت"
- },
- {
-   "stop_words": "داشتن"
- },
- {
-   "stop_words": "داشتند"
- },
- {
-   "stop_words": "داشته"
- },
- {
-   "stop_words": "داشتم"
- },
- {
-   "stop_words": "داشتی"
- },
- {
-   "stop_words": "داشتید"
- },
- {
-   "stop_words": "داشتیم"
- },
- {
-   "stop_words": "داوطلبانه"
- },
- {
-   "stop_words": "دايم"
- },
- {
-   "stop_words": "دايما"
- },
- {
-   "stop_words": "دانست"
- },
- {
-   "stop_words": "دانند"
- },
- {
-   "stop_words": "دامم"
- },
- {
-   "stop_words": "دایم"
- },
- {
-   "stop_words": "دایما"
- },
- {
-   "stop_words": "دخترانه"
- },
- {
-   "stop_words": "در"
- },
- {
-   "stop_words": "دراثر"
- },
- {
-   "stop_words": "دراره"
- },
- {
-   "stop_words": "درازا"
- },
- {
-   "stop_words": "درازاي"
- },
- {
-   "stop_words": "دراين"
- },
- {
-   "stop_words": "دران"
- },
- {
-   "stop_words": "دراین"
- },
- {
-   "stop_words": "درباب"
- },
- {
-   "stop_words": "درباره"
- },
- {
-   "stop_words": "دربدر"
- },
- {
-   "stop_words": "دربر"
- },
- {
-   "stop_words": "دربرابر"
- },
- {
-   "stop_words": "دربه"
- },
- {
-   "stop_words": "درثاني"
- },
- {
-   "stop_words": "درحال"
- },
- {
-   "stop_words": "درحالي"
- },
- {
-   "stop_words": "درحاليكه"
- },
- {
-   "stop_words": "درحالی"
- },
- {
-   "stop_words": "درحالیکه"
- },
- {
-   "stop_words": "دردكشان"
- },
- {
-   "stop_words": "درراستاي"
- },
- {
-   "stop_words": "درست"
- },
- {
-   "stop_words": "درسته"
- },
- {
-   "stop_words": "درشت"
- },
- {
-   "stop_words": "درشتي"
- },
- {
-   "stop_words": "درشتی"
- },
- {
-   "stop_words": "درصورتي"
- },
- {
-   "stop_words": "درصورتيكه"
- },
- {
-   "stop_words": "درصورتی"
- },
- {
-   "stop_words": "درطي"
- },
- {
-   "stop_words": "درعين"
- },
- {
-   "stop_words": "درعین"
- },
- {
-   "stop_words": "درتخت"
- },
- {
-   "stop_words": "درپي"
- },
- {
-   "stop_words": "درپی"
- },
- {
-   "stop_words": "دركل"
- },
- {
-   "stop_words": "دركنار"
- },
- {
-   "stop_words": "درواقع"
- },
- {
-   "stop_words": "درون"
- },
- {
-   "stop_words": "دريغ"
- },
- {
-   "stop_words": "دريغا"
- },
- {
-   "stop_words": "درنتيجه"
- },
- {
-   "stop_words": "درنهايت"
- },
- {
-   "stop_words": "درهر"
- },
- {
-   "stop_words": "درهرحال"
- },
- {
-   "stop_words": "درهرصورت"
- },
- {
-   "stop_words": "درمجموع"
- },
- {
-   "stop_words": "درمورد"
- },
- {
-   "stop_words": "درميان"
- },
- {
-   "stop_words": "درمقابل"
- },
- {
-   "stop_words": "دریغ"
- },
- {
-   "stop_words": "دریغا"
- },
- {
-   "stop_words": "درین"
- },
- {
-   "stop_words": "دسته"
- },
- {
-   "stop_words": "دشوار"
- },
- {
-   "stop_words": "دشوارتر"
- },
- {
-   "stop_words": "دشمنيم"
- },
- {
-   "stop_words": "دشمنیم"
- },
- {
-   "stop_words": "دو"
- },
- {
-   "stop_words": "دوباره"
- },
- {
-   "stop_words": "دوباره‌ای"
- },
- {
-   "stop_words": "دور"
- },
- {
-   "stop_words": "دوراز"
- },
- {
-   "stop_words": "دورتر"
- },
- {
-   "stop_words": "دوساله"
- },
- {
-   "stop_words": "دوستانه"
- },
- {
-   "stop_words": "دوتا"
- },
- {
-   "stop_words": "دوتادوتا"
- },
- {
-   "stop_words": "دون"
- },
- {
-   "stop_words": "دونید"
- },
- {
-   "stop_words": "دوم"
- },
- {
-   "stop_words": "ديده"
- },
- {
-   "stop_words": "دير"
- },
- {
-   "stop_words": "ديران"
- },
- {
-   "stop_words": "ديرت"
- },
- {
-   "stop_words": "ديروز"
- },
- {
-   "stop_words": "ديروزبه"
- },
- {
-   "stop_words": "ديري"
- },
- {
-   "stop_words": "ديرم"
- },
- {
-   "stop_words": "ديشب"
- },
- {
-   "stop_words": "ديوانه"
- },
- {
-   "stop_words": "ديوي"
- },
- {
-   "stop_words": "ديگر"
- },
- {
-   "stop_words": "ديگران"
- },
- {
-   "stop_words": "ديگرتا"
- },
- {
-   "stop_words": "ديگري"
- },
- {
-   "stop_words": "ديگه"
- },
- {
-   "stop_words": "دقيق"
- },
- {
-   "stop_words": "دقيقا"
- },
- {
-   "stop_words": "دقیقا"
- },
- {
-   "stop_words": "دلخواه"
- },
- {
-   "stop_words": "دلخوش"
- },
- {
-   "stop_words": "دلشاد"
- },
- {
-   "stop_words": "دنالِ"
- },
- {
-   "stop_words": "دنبال"
- },
- {
-   "stop_words": "دنبالِ"
- },
- {
-   "stop_words": "ده"
- },
- {
-   "stop_words": "دهد"
- },
- {
-   "stop_words": "دهند"
- },
- {
-   "stop_words": "دهم"
- },
- {
-   "stop_words": "دهی"
- },
- {
-   "stop_words": "دهید"
- },
- {
-   "stop_words": "دهیم"
- },
- {
-   "stop_words": "دم"
- },
- {
-   "stop_words": "دگربار"
- },
- {
-   "stop_words": "دگرباره"
- },
- {
-   "stop_words": "دگرگون"
- },
- {
-   "stop_words": "دچار"
- },
- {
-   "stop_words": "دیده"
- },
- {
-   "stop_words": "دیر"
- },
- {
-   "stop_words": "دیرت"
- },
- {
-   "stop_words": "دیروز"
- },
- {
-   "stop_words": "دیرم"
- },
- {
-   "stop_words": "دیشب"
- },
- {
-   "stop_words": "دیوانه‌ای"
- },
- {
-   "stop_words": "دیوی"
- },
- {
-   "stop_words": "دیگر"
- },
- {
-   "stop_words": "دیگران"
- },
- {
-   "stop_words": "دیگری"
- },
- {
-   "stop_words": "دیگه"
- },
- {
-   "stop_words": "ذ"
- },
- {
-   "stop_words": "ذاري"
- },
- {
-   "stop_words": "ذاشته"
- },
- {
-   "stop_words": "ذاتا"
- },
- {
-   "stop_words": "ذاتاً"
- },
- {
-   "stop_words": "ذالك"
- },
- {
-   "stop_words": "ذيل"
- },
- {
-   "stop_words": "ذيلا"
- },
- {
-   "stop_words": "ذلک"
- },
- {
-   "stop_words": "ر"
- },
- {
-   "stop_words": "را"
- },
- {
-   "stop_words": "رااز"
- },
- {
-   "stop_words": "رابسیار"
- },
- {
-   "stop_words": "رابه"
- },
- {
-   "stop_words": "راجع"
- },
- {
-   "stop_words": "راحت"
- },
- {
-   "stop_words": "راحتر"
- },
- {
-   "stop_words": "رادر"
- },
- {
-   "stop_words": "رارِ"
- },
- {
-   "stop_words": "راسا"
- },
- {
-   "stop_words": "راساس"
- },
- {
-   "stop_words": "راست"
- },
- {
-   "stop_words": "راستا"
- },
- {
-   "stop_words": "راستي"
- },
- {
-   "stop_words": "راستی"
- },
- {
-   "stop_words": "راي"
- },
- {
-   "stop_words": "راه"
- },
- {
-   "stop_words": "رایِ"
- },
- {
-   "stop_words": "رخوردار"
- },
- {
-   "stop_words": "رخي"
- },
- {
-   "stop_words": "رداري"
- },
- {
-   "stop_words": "ردد"
- },
- {
-   "stop_words": "رسما"
- },
- {
-   "stop_words": "رسید"
- },
- {
-   "stop_words": "رسیده"
- },
- {
-   "stop_words": "رشته"
- },
- {
-   "stop_words": "رغم"
- },
- {
-   "stop_words": "رو"
- },
- {
-   "stop_words": "رواست"
- },
- {
-   "stop_words": "روب"
- },
- {
-   "stop_words": "روبرو"
- },
- {
-   "stop_words": "روبروست"
- },
- {
-   "stop_words": "روبه"
- },
- {
-   "stop_words": "روز"
- },
- {
-   "stop_words": "روزانه"
- },
- {
-   "stop_words": "روزبروز"
- },
- {
-   "stop_words": "روزه"
- },
- {
-   "stop_words": "روزه‌ای"
- },
- {
-   "stop_words": "روزهاي"
- },
- {
-   "stop_words": "روزهای"
- },
- {
-   "stop_words": "روزمره"
- },
- {
-   "stop_words": "روش"
- },
- {
-   "stop_words": "روشن"
- },
- {
-   "stop_words": "روشني"
- },
- {
-   "stop_words": "روشنی"
- },
- {
-   "stop_words": "روي"
- },
- {
-   "stop_words": "رويش"
- },
- {
-   "stop_words": "روهي"
- },
- {
-   "stop_words": "روى"
- },
- {
-   "stop_words": "روی"
- },
- {
-   "stop_words": "رویش"
- },
- {
-   "stop_words": "رویِ"
- },
- {
-   "stop_words": "رویم"
- },
- {
-   "stop_words": "رياكارانه"
- },
- {
-   "stop_words": "ريز"
- },
- {
-   "stop_words": "ريزان"
- },
- {
-   "stop_words": "ريزي"
- },
- {
-   "stop_words": "رفت"
- },
- {
-   "stop_words": "رفتارهاست"
- },
- {
-   "stop_words": "رفته"
- },
- {
-   "stop_words": "رفته‌ام"
- },
- {
-   "stop_words": "رنجند"
- },
- {
-   "stop_words": "رندانه"
- },
- {
-   "stop_words": "ره"
- },
- {
-   "stop_words": "رهگشاست"
- },
- {
-   "stop_words": "ریزی"
- },
- {
-   "stop_words": "ز"
- },
- {
-   "stop_words": "زد"
- },
- {
-   "stop_words": "زدن"
- },
- {
-   "stop_words": "زده"
- },
- {
-   "stop_words": "زشت"
- },
- {
-   "stop_words": "زشتکارانند"
- },
- {
-   "stop_words": "زو"
- },
- {
-   "stop_words": "زود"
- },
- {
-   "stop_words": "زودتر"
- },
- {
-   "stop_words": "زودي"
- },
- {
-   "stop_words": "زودی"
- },
- {
-   "stop_words": "زياد"
- },
- {
-   "stop_words": "زيادتر"
- },
- {
-   "stop_words": "زياده"
- },
- {
-   "stop_words": "زيبا"
- },
- {
-   "stop_words": "زيباتر"
- },
- {
-   "stop_words": "زير"
- },
- {
-   "stop_words": "زيرا"
- },
- {
-   "stop_words": "زيراكه"
- },
- {
-   "stop_words": "زيركانه"
- },
- {
-   "stop_words": "زيرند"
- },
- {
-   "stop_words": "زيرچشمي"
- },
- {
-   "stop_words": "زين"
- },
- {
-   "stop_words": "زنند"
- },
- {
-   "stop_words": "زهي"
- },
- {
-   "stop_words": "زهی"
- },
- {
-   "stop_words": "زمان"
- },
- {
-   "stop_words": "زماني"
- },
- {
-   "stop_words": "زمانی"
- },
- {
-   "stop_words": "زمینه"
- },
- {
-   "stop_words": "زیاد"
- },
- {
-   "stop_words": "زیاده"
- },
- {
-   "stop_words": "زیر"
- },
- {
-   "stop_words": "زیرا"
- },
- {
-   "stop_words": "زیرِ"
- },
- {
-   "stop_words": "زیرچشمی"
- },
- {
-   "stop_words": "س"
- },
- {
-   "stop_words": "سابق"
- },
- {
-   "stop_words": "سابقا"
- },
- {
-   "stop_words": "ساختن"
- },
- {
-   "stop_words": "ساخته"
- },
- {
-   "stop_words": "ساخته‌ام"
- },
- {
-   "stop_words": "ساده"
- },
- {
-   "stop_words": "سادگي"
- },
- {
-   "stop_words": "سادگی"
- },
- {
-   "stop_words": "سازان"
- },
- {
-   "stop_words": "سازي"
- },
- {
-   "stop_words": "سازهاست"
- },
- {
-   "stop_words": "سازگارانه"
- },
- {
-   "stop_words": "سازی"
- },
- {
-   "stop_words": "ساكنند"
- },
- {
-   "stop_words": "ساير"
- },
- {
-   "stop_words": "سايران"
- },
- {
-   "stop_words": "سايرين"
- },
- {
-   "stop_words": "ساق"
- },
- {
-   "stop_words": "سالانه"
- },
- {
-   "stop_words": "سالته"
- },
- {
-   "stop_words": "ساليانه"
- },
- {
-   "stop_words": "ساله"
- },
- {
-   "stop_words": "سالهاست"
- },
- {
-   "stop_words": "سالم"
- },
- {
-   "stop_words": "سالم‌تر"
- },
- {
-   "stop_words": "سالیانه"
- },
- {
-   "stop_words": "ساکنند"
- },
- {
-   "stop_words": "سایر"
- },
- {
-   "stop_words": "سخت"
- },
- {
-   "stop_words": "سختتر"
- },
- {
-   "stop_words": "سخته"
- },
- {
-   "stop_words": "سر"
- },
- {
-   "stop_words": "سراسر"
- },
- {
-   "stop_words": "سراپا"
- },
- {
-   "stop_words": "سرانجام"
- },
- {
-   "stop_words": "سرعت"
- },
- {
-   "stop_words": "سري"
- },
- {
-   "stop_words": "سريع"
- },
- {
-   "stop_words": "سريعا"
- },
- {
-   "stop_words": "سری"
- },
- {
-   "stop_words": "سریع"
- },
- {
-   "stop_words": "سریعا"
- },
- {
-   "stop_words": "سریعاً"
- },
- {
-   "stop_words": "سریِ"
- },
- {
-   "stop_words": "سعي"
- },
- {
-   "stop_words": "سعی"
- },
- {
-   "stop_words": "ست"
- },
- {
-   "stop_words": "سپس"
- },
- {
-   "stop_words": "سوي"
- },
- {
-   "stop_words": "سوم"
- },
- {
-   "stop_words": "سوی"
- },
- {
-   "stop_words": "سویِ"
- },
- {
-   "stop_words": "سيار"
- },
- {
-   "stop_words": "سياري"
- },
- {
-   "stop_words": "سياه"
- },
- {
-   "stop_words": "سيخ"
- },
- {
-   "stop_words": "سنگدلانه"
- },
- {
-   "stop_words": "سنگين"
- },
- {
-   "stop_words": "سه"
- },
- {
-   "stop_words": "سهوا"
- },
- {
-   "stop_words": "سهواً"
- },
- {
-   "stop_words": "سمت"
- },
- {
-   "stop_words": "سمتِ"
- },
- {
-   "stop_words": "سیاه"
- },
- {
-   "stop_words": "سیخ"
- },
- {
-   "stop_words": "ش"
- },
- {
-   "stop_words": "شاأالله"
- },
- {
-   "stop_words": "شااالله"
- },
- {
-   "stop_words": "شاد"
- },
- {
-   "stop_words": "شادتر"
- },
- {
-   "stop_words": "شادمان"
- },
- {
-   "stop_words": "شاكله"
- },
- {
-   "stop_words": "شايد"
- },
- {
-   "stop_words": "شان"
- },
- {
-   "stop_words": "شاهديم"
- },
- {
-   "stop_words": "شاهدند"
- },
- {
-   "stop_words": "شاهدیم"
- },
- {
-   "stop_words": "شاید"
- },
- {
-   "stop_words": "شب"
- },
- {
-   "stop_words": "شبانه"
- },
- {
-   "stop_words": "شبهاست"
- },
- {
-   "stop_words": "شجاعانه"
- },
- {
-   "stop_words": "شخصا"
- },
- {
-   "stop_words": "شخصاً"
- },
- {
-   "stop_words": "شد"
- },
- {
-   "stop_words": "شدت"
- },
- {
-   "stop_words": "شديدا"
- },
- {
-   "stop_words": "شدن"
- },
- {
-   "stop_words": "شدند"
- },
- {
-   "stop_words": "شده"
- },
- {
-   "stop_words": "شده‌اند"
- },
- {
-   "stop_words": "شدم"
- },
- {
-   "stop_words": "شدی"
- },
- {
-   "stop_words": "شدید"
- },
- {
-   "stop_words": "شدیدا"
- },
- {
-   "stop_words": "شدیداً"
- },
- {
-   "stop_words": "شدیم"
- },
- {
-   "stop_words": "شرط"
- },
- {
-   "stop_words": "شش"
- },
- {
-   "stop_words": "شتابان"
- },
- {
-   "stop_words": "شتابزده"
- },
- {
-   "stop_words": "شو"
- },
- {
-   "stop_words": "شود"
- },
- {
-   "stop_words": "شوراست"
- },
- {
-   "stop_words": "شوقم"
- },
- {
-   "stop_words": "شوند"
- },
- {
-   "stop_words": "شونده"
- },
- {
-   "stop_words": "شوم"
- },
- {
-   "stop_words": "شوی"
- },
- {
-   "stop_words": "شوید"
- },
- {
-   "stop_words": "شویم"
- },
- {
-   "stop_words": "شيرين"
- },
- {
-   "stop_words": "شيرينه"
- },
- {
-   "stop_words": "شيك"
- },
- {
-   "stop_words": "شناسي"
- },
- {
-   "stop_words": "شناسی"
- },
- {
-   "stop_words": "شناسید"
- },
- {
-   "stop_words": "شما"
- },
- {
-   "stop_words": "شماري"
- },
- {
-   "stop_words": "شماری"
- },
- {
-   "stop_words": "شماست"
- },
- {
-   "stop_words": "شمايند"
- },
- {
-   "stop_words": "شمایند"
- },
- {
-   "stop_words": "شیرین"
- },
- {
-   "stop_words": "شیرینه"
- },
- {
-   "stop_words": "شیک"
- },
- {
-   "stop_words": "ص"
- },
- {
-   "stop_words": "صادقانه"
- },
- {
-   "stop_words": "صاف"
- },
- {
-   "stop_words": "صبح"
- },
- {
-   "stop_words": "صد"
- },
- {
-   "stop_words": "صدالبته"
- },
- {
-   "stop_words": "صددرصد"
- },
- {
-   "stop_words": "صراحتا"
- },
- {
-   "stop_words": "صريح"
- },
- {
-   "stop_words": "صريحا"
- },
- {
-   "stop_words": "صريحتر"
- },
- {
-   "stop_words": "صرفا"
- },
- {
-   "stop_words": "صرفاً"
- },
- {
-   "stop_words": "صریحاً"
- },
- {
-   "stop_words": "صورت"
- },
- {
-   "stop_words": "صندوق"
- },
- {
-   "stop_words": "صميمانه"
- },
- {
-   "stop_words": "ض"
- },
- {
-   "stop_words": "ضد"
- },
- {
-   "stop_words": "ضدِّ"
- },
- {
-   "stop_words": "ضدِّ"
- },
- {
-   "stop_words": "ضرورتا"
- },
- {
-   "stop_words": "ضعيف"
- },
- {
-   "stop_words": "ضعيفتر"
- },
- {
-   "stop_words": "ضمن"
- },
- {
-   "stop_words": "ضمنا"
- },
- {
-   "stop_words": "ضمناً"
- },
- {
-   "stop_words": "ط"
- },
- {
-   "stop_words": "طبعا"
- },
- {
-   "stop_words": "طبعاً"
- },
- {
-   "stop_words": "طبيعتا"
- },
- {
-   "stop_words": "طبقِ"
- },
- {
-   "stop_words": "طبیعتا"
- },
- {
-   "stop_words": "طريق"
- },
- {
-   "stop_words": "طرف"
- },
- {
-   "stop_words": "طریق"
- },
- {
-   "stop_words": "طور"
- },
- {
-   "stop_words": "طوري"
- },
- {
-   "stop_words": "طوری"
- },
- {
-   "stop_words": "طي"
- },
- {
-   "stop_words": "طقِ"
- },
- {
-   "stop_words": "طلبكارانه"
- },
- {
-   "stop_words": "طلبکارانه"
- },
- {
-   "stop_words": "طی"
- },
- {
-   "stop_words": "ظ"
- },
- {
-   "stop_words": "ظاهرا"
- },
- {
-   "stop_words": "ظاهراً"
- },
- {
-   "stop_words": "ظهر"
- },
- {
-   "stop_words": "ع"
- },
- {
-   "stop_words": "عاجزانه"
- },
- {
-   "stop_words": "عادلانه"
- },
- {
-   "stop_words": "عاقبت"
- },
- {
-   "stop_words": "عاقلانه"
- },
- {
-   "stop_words": "عالي"
- },
- {
-   "stop_words": "عالمانه"
- },
- {
-   "stop_words": "عبارتند"
- },
- {
-   "stop_words": "عج"
- },
- {
-   "stop_words": "عجب"
- },
- {
-   "stop_words": "عجولانه"
- },
- {
-   "stop_words": "عد"
- },
- {
-   "stop_words": "عدم"
- },
- {
-   "stop_words": "عرفاني"
- },
- {
-   "stop_words": "عرفانی"
- },
- {
-   "stop_words": "عری"
- },
- {
-   "stop_words": "عزيز"
- },
- {
-   "stop_words": "عضي"
- },
- {
-   "stop_words": "عينا"
- },
- {
-   "stop_words": "عقب"
- },
- {
-   "stop_words": "عقبتر"
- },
- {
-   "stop_words": "عقبِ"
- },
- {
-   "stop_words": "عقِ"
- },
- {
-   "stop_words": "علارغم"
- },
- {
-   "stop_words": "علاوه"
- },
- {
-   "stop_words": "علت"
- },
- {
-   "stop_words": "عليرغم"
- },
- {
-   "stop_words": "عليه"
- },
- {
-   "stop_words": "علّتِ"
- },
- {
-   "stop_words": "علنا"
- },
- {
-   "stop_words": "علناً"
- },
- {
-   "stop_words": "علی"
- },
- {
-   "stop_words": "علیرغم"
- },
- {
-   "stop_words": "علیه"
- },
- {
-   "stop_words": "عن"
- },
- {
-   "stop_words": "عنوان"
- },
- {
-   "stop_words": "عنوانِ"
- },
- {
-   "stop_words": "عنقريب"
- },
- {
-   "stop_words": "عنقریب"
- },
- {
-   "stop_words": "عمدا"
- },
- {
-   "stop_words": "عمداً"
- },
- {
-   "stop_words": "عمدتا"
- },
- {
-   "stop_words": "عمدتاً"
- },
- {
-   "stop_words": "عمدي"
- },
- {
-   "stop_words": "عمده"
- },
- {
-   "stop_words": "عموم"
- },
- {
-   "stop_words": "عموما"
- },
- {
-   "stop_words": "عموماً"
- },
- {
-   "stop_words": "عميقا"
- },
- {
-   "stop_words": "عمل"
- },
- {
-   "stop_words": "عملا"
- },
- {
-   "stop_words": "عملاً"
- },
- {
-   "stop_words": "عملي"
- },
- {
-   "stop_words": "عملگرايانه"
- },
- {
-   "stop_words": "عملی"
- },
- {
-   "stop_words": "عیناً"
- },
- {
-   "stop_words": "غ"
- },
- {
-   "stop_words": "غالبا"
- },
- {
-   "stop_words": "غزالان"
- },
- {
-   "stop_words": "غير"
- },
- {
-   "stop_words": "غيراز"
- },
- {
-   "stop_words": "غيرازاين"
- },
- {
-   "stop_words": "غيرازان"
- },
- {
-   "stop_words": "غيرطبيعي"
- },
- {
-   "stop_words": "غيرعمدي"
- },
- {
-   "stop_words": "غيرتصادفي"
- },
- {
-   "stop_words": "غيريكسان"
- },
- {
-   "stop_words": "غیر"
- },
- {
-   "stop_words": "تا"
- },
- {
-   "stop_words": "تااينجا"
- },
- {
-   "stop_words": "تااينكه"
- },
- {
-   "stop_words": "تاانجا"
- },
- {
-   "stop_words": "تاانجاكه"
- },
- {
-   "stop_words": "تاانكه"
- },
- {
-   "stop_words": "تابه"
- },
- {
-   "stop_words": "تاجاييكه"
- },
- {
-   "stop_words": "تاحدودي"
- },
- {
-   "stop_words": "تاحدي"
- },
- {
-   "stop_words": "تاحدی"
- },
- {
-   "stop_words": "تازه"
- },
- {
-   "stop_words": "تازگي"
- },
- {
-   "stop_words": "تازگی"
- },
- {
-   "stop_words": "تاكنون"
- },
- {
-   "stop_words": "تاوقتي"
- },
- {
-   "stop_words": "تاوقتيكه"
- },
- {
-   "stop_words": "تان"
- },
- {
-   "stop_words": "تاکنون"
- },
- {
-   "stop_words": "تحریم"
- },
- {
-   "stop_words": "تحت"
- },
- {
-   "stop_words": "تحقیق"
- },
- {
-   "stop_words": "تدريج"
- },
- {
-   "stop_words": "تدريجا"
- },
- {
-   "stop_words": "تدريجي"
- },
- {
-   "stop_words": "تدریج"
- },
- {
-   "stop_words": "تدریجا"
- },
- {
-   "stop_words": "تر"
- },
- {
-   "stop_words": "ترجيحا"
- },
- {
-   "stop_words": "ترديد"
- },
- {
-   "stop_words": "تردید"
- },
- {
-   "stop_words": "ترتيب"
- },
- {
-   "stop_words": "ترتیب"
- },
- {
-   "stop_words": "تري"
- },
- {
-   "stop_words": "ترين"
- },
- {
-   "stop_words": "ترند"
- },
- {
-   "stop_words": "تریلیارد"
- },
- {
-   "stop_words": "تریلیون"
- },
- {
-   "stop_words": "ترین"
- },
- {
-   "stop_words": "تصريحا"
- },
- {
-   "stop_words": "تصریحاً"
- },
- {
-   "stop_words": "تعدادي"
- },
- {
-   "stop_words": "تعدادی"
- },
- {
-   "stop_words": "تعمدا"
- },
- {
-   "stop_words": "تك"
- },
- {
-   "stop_words": "تو"
- },
- {
-   "stop_words": "توؤماً"
- },
- {
-   "stop_words": "توان"
- },
- {
-   "stop_words": "تواند"
- },
- {
-   "stop_words": "توانست"
- },
- {
-   "stop_words": "توانستن"
- },
- {
-   "stop_words": "توانستند"
- },
- {
-   "stop_words": "توانسته"
- },
- {
-   "stop_words": "توانستم"
- },
- {
-   "stop_words": "توانستی"
- },
- {
-   "stop_words": "توانستیم"
- },
- {
-   "stop_words": "توانند"
- },
- {
-   "stop_words": "توانم"
- },
- {
-   "stop_words": "توانی"
- },
- {
-   "stop_words": "توانید"
- },
- {
-   "stop_words": "توانیم"
- },
- {
-   "stop_words": "توسط"
- },
- {
-   "stop_words": "توش"
- },
- {
-   "stop_words": "تووما"
- },
- {
-   "stop_words": "توي"
- },
- {
-   "stop_words": "تويي"
- },
- {
-   "stop_words": "تول"
- },
- {
-   "stop_words": "تولِ"
- },
- {
-   "stop_words": "تون"
- },
- {
-   "stop_words": "تونست"
- },
- {
-   "stop_words": "توی"
- },
- {
-   "stop_words": "تویِ"
- },
- {
-   "stop_words": "تفاوت"
- },
- {
-   "stop_words": "تفاوتند"
- },
- {
-   "stop_words": "تفنني"
- },
- {
-   "stop_words": "تقريبا"
- },
- {
-   "stop_words": "تقریبا"
- },
- {
-   "stop_words": "تقریباً"
- },
- {
-   "stop_words": "تلويحا"
- },
- {
-   "stop_words": "تلویحا"
- },
- {
-   "stop_words": "تلویحاً"
- },
- {
-   "stop_words": "تند"
- },
- {
-   "stop_words": "تنها"
- },
- {
-   "stop_words": "تنهايي"
- },
- {
-   "stop_words": "تنگاتنگ"
- },
- {
-   "stop_words": "تمام"
- },
- {
-   "stop_words": "تماما"
- },
- {
-   "stop_words": "تمامشان"
- },
- {
-   "stop_words": "تمامي"
- },
- {
-   "stop_words": "تمامی"
- },
- {
-   "stop_words": "تک"
- },
- {
-   "stop_words": "تکرا"
- },
- {
-   "stop_words": "؛"
- },
- {
-   "stop_words": "پ"
- },
- {
-   "stop_words": "پارسايانه"
- },
- {
-   "stop_words": "پارسال"
- },
- {
-   "stop_words": "پارسایانه"
- },
- {
-   "stop_words": "پاره"
- },
- {
-   "stop_words": "پاره‌ای"
- },
- {
-   "stop_words": "پاعینِ"
- },
- {
-   "stop_words": "پايين"
- },
- {
-   "stop_words": "پایین"
- },
- {
-   "stop_words": "پدرانه"
- },
- {
-   "stop_words": "پدرپي"
- },
- {
-   "stop_words": "پديده"
- },
- {
-   "stop_words": "پذير"
- },
- {
-   "stop_words": "پذيرند"
- },
- {
-   "stop_words": "پذیرند"
- },
- {
-   "stop_words": "پراز"
- },
- {
-   "stop_words": "پس"
- },
- {
-   "stop_words": "پشت"
- },
- {
-   "stop_words": "پشتوانه"
- },
- {
-   "stop_words": "پشيموني"
- },
- {
-   "stop_words": "پشیمونی"
- },
- {
-   "stop_words": "پي"
- },
- {
-   "stop_words": "پيامبرانه"
- },
- {
-   "stop_words": "پيداست"
- },
- {
-   "stop_words": "پيدرپي"
- },
- {
-   "stop_words": "پيرامون"
- },
- {
-   "stop_words": "پيش"
- },
- {
-   "stop_words": "پيشاپيش"
- },
- {
-   "stop_words": "پيشتر"
- },
- {
-   "stop_words": "پيوسته"
- },
- {
-   "stop_words": "پيگير"
- },
- {
-   "stop_words": "پنج"
- },
- {
-   "stop_words": "پنهان"
- },
- {
-   "stop_words": "پهن"
- },
- {
-   "stop_words": "پی"
- },
- {
-   "stop_words": "پیدا"
- },
- {
-   "stop_words": "پیداست"
- },
- {
-   "stop_words": "پیرامون"
- },
- {
-   "stop_words": "پیش"
- },
- {
-   "stop_words": "پیشاپیش"
- },
- {
-   "stop_words": "پیششون"
- },
- {
-   "stop_words": "پیشتر"
- },
- {
-   "stop_words": "پیشِ"
- },
- {
-   "stop_words": "پیوسته"
- },
- {
-   "stop_words": "ك"
- },
- {
-   "stop_words": "كارافرينانه"
- },
- {
-   "stop_words": "كاربرمدارانه"
- },
- {
-   "stop_words": "كارند"
- },
- {
-   "stop_words": "كاش"
- },
- {
-   "stop_words": "كاشكي"
- },
- {
-   "stop_words": "كاين"
- },
- {
-   "stop_words": "كان"
- },
- {
-   "stop_words": "كاملا"
- },
- {
-   "stop_words": "كاملتر"
- },
- {
-   "stop_words": "كجا"
- },
- {
-   "stop_words": "كجاست"
- },
- {
-   "stop_words": "كدام"
- },
- {
-   "stop_words": "كداميك"
- },
- {
-   "stop_words": "كدامند"
- },
- {
-   "stop_words": "كرات"
- },
- {
-   "stop_words": "كرد"
- },
- {
-   "stop_words": "كردن"
- },
- {
-   "stop_words": "كردند"
- },
- {
-   "stop_words": "كرده"
- },
- {
-   "stop_words": "كردم"
- },
- {
-   "stop_words": "كردید"
- },
- {
-   "stop_words": "كردیم"
- },
- {
-   "stop_words": "كز"
- },
- {
-   "stop_words": "كزين"
- },
- {
-   "stop_words": "كس"
- },
- {
-   "stop_words": "كساني"
- },
- {
-   "stop_words": "كسي"
- },
- {
-   "stop_words": "كسی"
- },
- {
-   "stop_words": "كشيدن"
- },
- {
-   "stop_words": "كودكانه"
- },
- {
-   "stop_words": "كوركورانه"
- },
- {
-   "stop_words": "كي"
- },
- {
-   "stop_words": "كيست"
- },
- {
-   "stop_words": "كَی"
- },
- {
-   "stop_words": "كل"
- },
- {
-   "stop_words": "كلا"
- },
- {
-   "stop_words": "كلي"
- },
- {
-   "stop_words": "كليشه"
- },
- {
-   "stop_words": "كلی"
- },
- {
-   "stop_words": "كنار"
- },
- {
-   "stop_words": "كنارش"
- },
- {
-   "stop_words": "كنارِ"
- },
- {
-   "stop_words": "كنايه"
- },
- {
-   "stop_words": "كنان"
- },
- {
-   "stop_words": "كند"
- },
- {
-   "stop_words": "كنيد"
- },
- {
-   "stop_words": "كنيم"
- },
- {
-   "stop_words": "كنن"
- },
- {
-   "stop_words": "كنند"
- },
- {
-   "stop_words": "كننده"
- },
- {
-   "stop_words": "كنه"
- },
- {
-   "stop_words": "كنم"
- },
- {
-   "stop_words": "كنی"
- },
- {
-   "stop_words": "كنید"
- },
- {
-   "stop_words": "كنیم"
- },
- {
-   "stop_words": "كه"
- },
- {
-   "stop_words": "كم"
- },
- {
-   "stop_words": "كمااينكه"
- },
- {
-   "stop_words": "كمابيش"
- },
- {
-   "stop_words": "كماكان"
- },
- {
-   "stop_words": "كمتر"
- },
- {
-   "stop_words": "كمتره"
- },
- {
-   "stop_words": "كمي"
- },
- {
-   "stop_words": "كی"
- },
- {
-   "stop_words": "و"
- },
- {
-   "stop_words": "وابسته"
- },
- {
-   "stop_words": "وارد"
- },
- {
-   "stop_words": "واسش"
- },
- {
-   "stop_words": "واضح"
- },
- {
-   "stop_words": "واضحتر"
- },
- {
-   "stop_words": "واي"
- },
- {
-   "stop_words": "واقع"
- },
- {
-   "stop_words": "واقعا"
- },
- {
-   "stop_words": "واقعاً"
- },
- {
-   "stop_words": "واقعي"
- },
- {
-   "stop_words": "واقعی"
- },
- {
-   "stop_words": "واقفند"
- },
- {
-   "stop_words": "واما"
- },
- {
-   "stop_words": "وای"
- },
- {
-   "stop_words": "وبرای"
- },
- {
-   "stop_words": "وجود"
- },
- {
-   "stop_words": "وجوديكه"
- },
- {
-   "stop_words": "وجه"
- },
- {
-   "stop_words": "وحشت"
- },
- {
-   "stop_words": "ود"
- },
- {
-   "stop_words": "ودن"
- },
- {
-   "stop_words": "ودند"
- },
- {
-   "stop_words": "وده"
- },
- {
-   "stop_words": "ور"
- },
- {
-   "stop_words": "ورا"
- },
- {
-   "stop_words": "وراي"
- },
- {
-   "stop_words": "وزو"
- },
- {
-   "stop_words": "وسطِ"
- },
- {
-   "stop_words": "وضع"
- },
- {
-   "stop_words": "وضوح"
- },
- {
-   "stop_words": "وو"
- },
- {
-   "stop_words": "وي"
- },
- {
-   "stop_words": "ويا"
- },
- {
-   "stop_words": "ويد"
- },
- {
-   "stop_words": "ويند"
- },
- {
-   "stop_words": "ويژه"
- },
- {
-   "stop_words": "وقتي"
- },
- {
-   "stop_words": "وقتيكه"
- },
- {
-   "stop_words": "وقتی"
- },
- {
-   "stop_words": "وقتیكه"
- },
- {
-   "stop_words": "وقتیکه"
- },
- {
-   "stop_words": "ولي"
- },
- {
-   "stop_words": "وليكن"
- },
- {
-   "stop_words": "ولی"
- },
- {
-   "stop_words": "ونن"
- },
- {
-   "stop_words": "وهمين"
- },
- {
-   "stop_words": "وگر"
- },
- {
-   "stop_words": "وگرد"
- },
- {
-   "stop_words": "وگرنه"
- },
- {
-   "stop_words": "وگو"
- },
- {
-   "stop_words": "وی"
- },
- {
-   "stop_words": "ویا"
- },
- {
-   "stop_words": "ویژه"
- },
- {
-   "stop_words": "ي"
- },
- {
-   "stop_words": "يا"
- },
- {
-   "stop_words": "يااز"
- },
- {
-   "stop_words": "يااينكه"
- },
- {
-   "stop_words": "ياانكه"
- },
- {
-   "stop_words": "يابد"
- },
- {
-   "stop_words": "ياد"
- },
- {
-   "stop_words": "يارب"
- },
- {
-   "stop_words": "يافتن"
- },
- {
-   "stop_words": "يرد"
- },
- {
-   "stop_words": "يري"
- },
- {
-   "stop_words": "يست"
- },
- {
-   "stop_words": "يش"
- },
- {
-   "stop_words": "يشتر"
- },
- {
-   "stop_words": "يشتري"
- },
- {
-   "stop_words": "يعني"
- },
- {
-   "stop_words": "يك"
- },
- {
-   "stop_words": "يكايك"
- },
- {
-   "stop_words": "يكبار"
- },
- {
-   "stop_words": "يكباره"
- },
- {
-   "stop_words": "يكجا"
- },
- {
-   "stop_words": "يكجانبه"
- },
- {
-   "stop_words": "يكجور"
- },
- {
-   "stop_words": "يكجوري"
- },
- {
-   "stop_words": "يكدير"
- },
- {
-   "stop_words": "يكديگر"
- },
- {
-   "stop_words": "يكدم"
- },
- {
-   "stop_words": "يكريز"
- },
- {
-   "stop_words": "يكزمان"
- },
- {
-   "stop_words": "يكسال"
- },
- {
-   "stop_words": "يكسري"
- },
- {
-   "stop_words": "يكسره"
- },
- {
-   "stop_words": "يكطرفه"
- },
- {
-   "stop_words": "يكپارچه"
- },
- {
-   "stop_words": "يكي"
- },
- {
-   "stop_words": "يكنواخت"
- },
- {
-   "stop_words": "يواش"
- },
- {
-   "stop_words": "يقينا"
- },
- {
-   "stop_words": "يه"
- },
- {
-   "stop_words": "فاقد"
- },
- {
-   "stop_words": "فبها"
- },
- {
-   "stop_words": "فر"
- },
- {
-   "stop_words": "فراتر"
- },
- {
-   "stop_words": "فراتراز"
- },
- {
-   "stop_words": "فراوان"
- },
- {
-   "stop_words": "فردا"
- },
- {
-   "stop_words": "فرماید"
- },
- {
-   "stop_words": "فعالانه"
- },
- {
-   "stop_words": "فعلا"
- },
- {
-   "stop_words": "فعلاً"
- },
- {
-   "stop_words": "فورا"
- },
- {
-   "stop_words": "فوري"
- },
- {
-   "stop_words": "فوق"
- },
- {
-   "stop_words": "فقط"
- },
- {
-   "stop_words": "فلان"
- },
- {
-   "stop_words": "فلذا"
- },
- {
-   "stop_words": "فناورانه"
- },
- {
-   "stop_words": "فهرستوار"
- },
- {
-   "stop_words": "فکر"
- },
- {
-   "stop_words": "قاالند"
- },
- {
-   "stop_words": "قابل"
- },
- {
-   "stop_words": "قاطبه"
- },
- {
-   "stop_words": "قاطعانه"
- },
- {
-   "stop_words": "قاعدتا"
- },
- {
-   "stop_words": "قاعدتاً"
- },
- {
-   "stop_words": "قال"
- },
- {
-   "stop_words": "قانونا"
- },
- {
-   "stop_words": "قانوناً"
- },
- {
-   "stop_words": "قبل"
- },
- {
-   "stop_words": "قبلا"
- },
- {
-   "stop_words": "قبلاً"
- },
- {
-   "stop_words": "قبلند"
- },
- {
-   "stop_words": "قد"
- },
- {
-   "stop_words": "قدر"
- },
- {
-   "stop_words": "قدري"
- },
- {
-   "stop_words": "قدرمسلم"
- },
- {
-   "stop_words": "قدری"
- },
- {
-   "stop_words": "قرار"
- },
- {
-   "stop_words": "قراردادن"
- },
- {
-   "stop_words": "قريب"
- },
- {
-   "stop_words": "قصدِ"
- },
- {
-   "stop_words": "قضاياست"
- },
- {
-   "stop_words": "قضایاست"
- },
- {
-   "stop_words": "قطعا"
- },
- {
-   "stop_words": "قطعاً"
- },
- {
-   "stop_words": "قيلا"
- },
- {
-   "stop_words": "قل"
- },
- {
-   "stop_words": "لا"
- },
- {
-   "stop_words": "لااقل"
- },
- {
-   "stop_words": "لاجرم"
- },
- {
-   "stop_words": "لذا"
- },
- {
-   "stop_words": "لزوما"
- },
- {
-   "stop_words": "لزوماً"
- },
- {
-   "stop_words": "لطفا"
- },
- {
-   "stop_words": "لطفاً"
- },
- {
-   "stop_words": "لكه"
- },
- {
-   "stop_words": "ليكن"
- },
- {
-   "stop_words": "له"
- },
- {
-   "stop_words": "لکه"
- },
- {
-   "stop_words": "لی"
- },
- {
-   "stop_words": "لیکن"
- },
- {
-   "stop_words": "نااميد"
- },
- {
-   "stop_words": "ناامید"
- },
- {
-   "stop_words": "نااگاهانه"
- },
- {
-   "stop_words": "ناخواسته"
- },
- {
-   "stop_words": "ناخوانده"
- },
- {
-   "stop_words": "ناديده"
- },
- {
-   "stop_words": "ناراضي"
- },
- {
-   "stop_words": "ناراضی"
- },
- {
-   "stop_words": "ناراين"
- },
- {
-   "stop_words": "ناسازگارانه"
- },
- {
-   "stop_words": "ناشي"
- },
- {
-   "stop_words": "ناشناخته"
- },
- {
-   "stop_words": "ناشی"
- },
- {
-   "stop_words": "ناتوان"
- },
- {
-   "stop_words": "ناپذير"
- },
- {
-   "stop_words": "ناكام"
- },
- {
-   "stop_words": "نايد"
- },
- {
-   "stop_words": "ناهشيار"
- },
- {
-   "stop_words": "نام"
- },
- {
-   "stop_words": "ناگاه"
- },
- {
-   "stop_words": "ناگزير"
- },
- {
-   "stop_words": "ناگزیر"
- },
- {
-   "stop_words": "ناگهان"
- },
- {
-   "stop_words": "ناگهانی"
- },
- {
-   "stop_words": "ناچار"
- },
- {
-   "stop_words": "نباش"
- },
- {
-   "stop_words": "نبايد"
- },
- {
-   "stop_words": "نباید"
- },
- {
-   "stop_words": "نبش"
- },
- {
-   "stop_words": "نبود"
- },
- {
-   "stop_words": "نحوه"
- },
- {
-   "stop_words": "نخست"
- },
- {
-   "stop_words": "نخستين"
- },
- {
-   "stop_words": "نخستین"
- },
- {
-   "stop_words": "نخواهد"
- },
- {
-   "stop_words": "نخواهند"
- },
- {
-   "stop_words": "نخواهم"
- },
- {
-   "stop_words": "نخواهی"
- },
- {
-   "stop_words": "نخواهید"
- },
- {
-   "stop_words": "نخواهیم"
- },
- {
-   "stop_words": "نخودي"
- },
- {
-   "stop_words": "نخودی"
- },
- {
-   "stop_words": "نداد"
- },
- {
-   "stop_words": "ندارد"
- },
- {
-   "stop_words": "ندارند"
- },
- {
-   "stop_words": "نداره"
- },
- {
-   "stop_words": "ندارم"
- },
- {
-   "stop_words": "نداری"
- },
- {
-   "stop_words": "ندارید"
- },
- {
-   "stop_words": "نداریم"
- },
- {
-   "stop_words": "نداشت"
- },
- {
-   "stop_words": "نداشتند"
- },
- {
-   "stop_words": "نداشته"
- },
- {
-   "stop_words": "نداشتم"
- },
- {
-   "stop_words": "نداشتی"
- },
- {
-   "stop_words": "نداشتید"
- },
- {
-   "stop_words": "نداشتیم"
- },
- {
-   "stop_words": "ندرت"
- },
- {
-   "stop_words": "ندرتا"
- },
- {
-   "stop_words": "ندي"
- },
- {
-   "stop_words": "ندیدی"
- },
- {
-   "stop_words": "نرم"
- },
- {
-   "stop_words": "نرمي"
- },
- {
-   "stop_words": "نریم"
- },
- {
-   "stop_words": "نزد"
- },
- {
-   "stop_words": "نزديك"
- },
- {
-   "stop_words": "نزديكتر"
- },
- {
-   "stop_words": "نزدِ"
- },
- {
-   "stop_words": "نزدیك"
- },
- {
-   "stop_words": "نزدیكِ"
- },
- {
-   "stop_words": "نزدیم"
- },
- {
-   "stop_words": "نزدیک"
- },
- {
-   "stop_words": "نزدیکِ"
- },
- {
-   "stop_words": "نسبت"
- },
- {
-   "stop_words": "نسبتا"
- },
- {
-   "stop_words": "نشان"
- },
- {
-   "stop_words": "نشده"
- },
- {
-   "stop_words": "نشون"
- },
- {
-   "stop_words": "نظرا"
- },
- {
-   "stop_words": "نظربه"
- },
- {
-   "stop_words": "نظير"
- },
- {
-   "stop_words": "نظیر"
- },
- {
-   "stop_words": "نتيجتا"
- },
- {
-   "stop_words": "نكرده"
- },
- {
-   "stop_words": "نكنند"
- },
- {
-   "stop_words": "نكنه"
- },
- {
-   "stop_words": "نواورانه"
- },
- {
-   "stop_words": "نود"
- },
- {
-   "stop_words": "نوشت"
- },
- {
-   "stop_words": "نوع"
- },
- {
-   "stop_words": "نوعا"
- },
- {
-   "stop_words": "نوعاً"
- },
- {
-   "stop_words": "نوعي"
- },
- {
-   "stop_words": "نوعی"
- },
- {
-   "stop_words": "نوميد"
- },
- {
-   "stop_words": "نيازمندانه"
- },
- {
-   "stop_words": "نيازمندند"
- },
- {
-   "stop_words": "نيز"
- },
- {
-   "stop_words": "نيست"
- },
- {
-   "stop_words": "نيك"
- },
- {
-   "stop_words": "نيمي"
- },
- {
-   "stop_words": "نفرند"
- },
- {
-   "stop_words": "نفهمي"
- },
- {
-   "stop_words": "نفهمی"
- },
- {
-   "stop_words": "نقادانه"
- },
- {
-   "stop_words": "نه"
- },
- {
-   "stop_words": "نهايت"
- },
- {
-   "stop_words": "نهايتا"
- },
- {
-   "stop_words": "نهان"
- },
- {
-   "stop_words": "نهایت"
- },
- {
-   "stop_words": "نهایتا"
- },
- {
-   "stop_words": "نهایتاً"
- },
- {
-   "stop_words": "نمايد"
- },
- {
-   "stop_words": "نماید"
- },
- {
-   "stop_words": "نمایش"
- },
- {
-   "stop_words": "نموده"
- },
- {
-   "stop_words": "نمي"
- },
- {
-   "stop_words": "نمی"
- },
- {
-   "stop_words": "نمی‌شود"
- },
- {
-   "stop_words": "نمی‌کند"
- },
- {
-   "stop_words": "نمیاورم"
- },
- {
-   "stop_words": "نمیبرد"
- },
- {
-   "stop_words": "نمیروم"
- },
- {
-   "stop_words": "نمیكنن"
- },
- {
-   "stop_words": "نمیكنند"
- },
- {
-   "stop_words": "نمیمونید"
- },
- {
-   "stop_words": "نمیگیرند"
- },
- {
-   "stop_words": "نکرده"
- },
- {
-   "stop_words": "نکن"
- },
- {
-   "stop_words": "نکند"
- },
- {
-   "stop_words": "نکنند"
- },
- {
-   "stop_words": "نکنم"
- },
- {
-   "stop_words": "نکنی"
- },
- {
-   "stop_words": "نکنید"
- },
- {
-   "stop_words": "نکنیم"
- },
- {
-   "stop_words": "نگاه"
- },
- {
-   "stop_words": "نگو"
- },
- {
-   "stop_words": "نیازمندانه"
- },
- {
-   "stop_words": "نیازمندند"
- },
- {
-   "stop_words": "نیز"
- },
- {
-   "stop_words": "نیست"
- },
- {
-   "stop_words": "نیستند"
- },
- {
-   "stop_words": "نیستم"
- },
- {
-   "stop_words": "نیستیم"
- },
- {
-   "stop_words": "نیمی"
- },
- {
-   "stop_words": "ه"
- },
- {
-   "stop_words": "ها"
- },
- {
-   "stop_words": "هاست"
- },
- {
-   "stop_words": "هاش"
- },
- {
-   "stop_words": "هاي"
- },
- {
-   "stop_words": "هايي"
- },
- {
-   "stop_words": "هان"
- },
- {
-   "stop_words": "های"
- },
- {
-   "stop_words": "هایت"
- },
- {
-   "stop_words": "هایی"
- },
- {
-   "stop_words": "هبچ"
- },
- {
-   "stop_words": "هدف"
- },
- {
-   "stop_words": "هر"
- },
- {
-   "stop_words": "هرازچندگاهي"
- },
- {
-   "stop_words": "هرانچه"
- },
- {
-   "stop_words": "هرجا"
- },
- {
-   "stop_words": "هرحال"
- },
- {
-   "stop_words": "هرز"
- },
- {
-   "stop_words": "هرزچندگاهي"
- },
- {
-   "stop_words": "هرساله"
- },
- {
-   "stop_words": "هركدام"
- },
- {
-   "stop_words": "هركس"
- },
- {
-   "stop_words": "هركسي"
- },
- {
-   "stop_words": "هركه"
- },
- {
-   "stop_words": "هروقت"
- },
- {
-   "stop_words": "هرقدر"
- },
- {
-   "stop_words": "هرکس"
- },
- {
-   "stop_words": "هرگاه"
- },
- {
-   "stop_words": "هرگز"
- },
- {
-   "stop_words": "هرگونه"
- },
- {
-   "stop_words": "هرچقدر"
- },
- {
-   "stop_words": "هرچند"
- },
- {
-   "stop_words": "هرچه"
- },
- {
-   "stop_words": "هزار"
- },
- {
-   "stop_words": "هزارها"
- },
- {
-   "stop_words": "هست"
- },
- {
-   "stop_words": "هستيم"
- },
- {
-   "stop_words": "هستن"
- },
- {
-   "stop_words": "هستند"
- },
- {
-   "stop_words": "هستم"
- },
- {
-   "stop_words": "هستی"
- },
- {
-   "stop_words": "هستید"
- },
- {
-   "stop_words": "هستیم"
- },
- {
-   "stop_words": "هشان"
- },
- {
-   "stop_words": "هشيارانه"
- },
- {
-   "stop_words": "هترين"
- },
- {
-   "stop_words": "هوشيارانه"
- },
- {
-   "stop_words": "هوشمندانه"
- },
- {
-   "stop_words": "هوي"
- },
- {
-   "stop_words": "هوی"
- },
- {
-   "stop_words": "هي"
- },
- {
-   "stop_words": "هيچ"
- },
- {
-   "stop_words": "هيچكدام"
- },
- {
-   "stop_words": "هيچكس"
- },
- {
-   "stop_words": "هيچي"
- },
- {
-   "stop_words": "هيچيك"
- },
- {
-   "stop_words": "هيچگاه"
- },
- {
-   "stop_words": "هيچگونه"
- },
- {
-   "stop_words": "هفت"
- },
- {
-   "stop_words": "هق"
- },
- {
-   "stop_words": "هنام"
- },
- {
-   "stop_words": "هنامِ"
- },
- {
-   "stop_words": "هنامی"
- },
- {
-   "stop_words": "هنوز"
- },
- {
-   "stop_words": "هنگام"
- },
- {
-   "stop_words": "هنگاميكه"
- },
- {
-   "stop_words": "هنگامِ"
- },
- {
-   "stop_words": "هنگامی"
- },
- {
-   "stop_words": "هم"
- },
- {
-   "stop_words": "همان"
- },
- {
-   "stop_words": "همانا"
- },
- {
-   "stop_words": "همانطور"
- },
- {
-   "stop_words": "همانطوركه"
- },
- {
-   "stop_words": "همانطوري"
- },
- {
-   "stop_words": "همانطوريكه"
- },
- {
-   "stop_words": "هماني"
- },
- {
-   "stop_words": "همانقدر"
- },
- {
-   "stop_words": "همانند"
- },
- {
-   "stop_words": "همانها"
- },
- {
-   "stop_words": "هماهنگتر"
- },
- {
-   "stop_words": "همخوان"
- },
- {
-   "stop_words": "همديگر"
- },
- {
-   "stop_words": "همدلانه"
- },
- {
-   "stop_words": "همدیگر"
- },
- {
-   "stop_words": "همزمان"
- },
- {
-   "stop_words": "همسو"
- },
- {
-   "stop_words": "همسوبا"
- },
- {
-   "stop_words": "همكارانه"
- },
- {
-   "stop_words": "همواره"
- },
- {
-   "stop_words": "همي"
- },
- {
-   "stop_words": "هميشه"
- },
- {
-   "stop_words": "هميشگي"
- },
- {
-   "stop_words": "همين"
- },
- {
-   "stop_words": "همينطور"
- },
- {
-   "stop_words": "همينطوركه"
- },
- {
-   "stop_words": "همينطوري"
- },
- {
-   "stop_words": "همينطوريكه"
- },
- {
-   "stop_words": "همينكه"
- },
- {
-   "stop_words": "همنوا"
- },
- {
-   "stop_words": "همه"
- },
- {
-   "stop_words": "همه‌اش"
- },
- {
-   "stop_words": "همهٌ"
- },
- {
-   "stop_words": "هممون"
- },
- {
-   "stop_words": "همگان"
- },
- {
-   "stop_words": "همگام"
- },
- {
-   "stop_words": "همگي"
- },
- {
-   "stop_words": "همگی"
- },
- {
-   "stop_words": "همچون"
- },
- {
-   "stop_words": "همچين"
- },
- {
-   "stop_words": "همچنان"
- },
- {
-   "stop_words": "همچنانكه"
- },
- {
-   "stop_words": "همچنين"
- },
- {
-   "stop_words": "همچنین"
- },
- {
-   "stop_words": "همچین"
- },
- {
-   "stop_words": "همیشه"
- },
- {
-   "stop_words": "همین"
- },
- {
-   "stop_words": "هی"
- },
- {
-   "stop_words": "هیچ"
- },
- {
-   "stop_words": "هیچکدام"
- },
- {
-   "stop_words": "هیچکس"
- },
- {
-   "stop_words": "هیچگاه"
- },
- {
-   "stop_words": "هیچگونه"
- },
- {
-   "stop_words": "هیچی"
- },
- {
-   "stop_words": "ما"
- },
- {
-   "stop_words": "مادام"
- },
- {
-   "stop_words": "مادامي"
- },
- {
-   "stop_words": "ماداميكه"
- },
- {
-   "stop_words": "مادامی"
- },
- {
-   "stop_words": "ماست"
- },
- {
-   "stop_words": "ماشينوار"
- },
- {
-   "stop_words": "مات"
- },
- {
-   "stop_words": "مايي"
- },
- {
-   "stop_words": "ماقبل"
- },
- {
-   "stop_words": "مالا"
- },
- {
-   "stop_words": "مالامال"
- },
- {
-   "stop_words": "مان"
- },
- {
-   "stop_words": "مانند"
- },
- {
-   "stop_words": "مانندِ"
- },
- {
-   "stop_words": "ماهرانه"
- },
- {
-   "stop_words": "ماهيتا"
- },
- {
-   "stop_words": "مامان"
- },
- {
-   "stop_words": "مبادا"
- },
- {
-   "stop_words": "مثابه"
- },
- {
-   "stop_words": "مثل"
- },
- {
-   "stop_words": "مثلا"
- },
- {
-   "stop_words": "مثلِ"
- },
- {
-   "stop_words": "مجانی"
- },
- {
-   "stop_words": "مجبورند"
- },
- {
-   "stop_words": "مجددا"
- },
- {
-   "stop_words": "مجدداً"
- },
- {
-   "stop_words": "مجرمانه"
- },
- {
-   "stop_words": "مجموع"
- },
- {
-   "stop_words": "مجموعا"
- },
- {
-   "stop_words": "مجموعاً"
- },
- {
-   "stop_words": "محتاجند"
- },
- {
-   "stop_words": "محتاط"
- },
- {
-   "stop_words": "محتاطانه"
- },
- {
-   "stop_words": "محكم"
- },
- {
-   "stop_words": "محکم"
- },
- {
-   "stop_words": "محکم‌تر"
- },
- {
-   "stop_words": "مخالفند"
- },
- {
-   "stop_words": "مخصوصا"
- },
- {
-   "stop_words": "مخصوصاً"
- },
- {
-   "stop_words": "مختصر"
- },
- {
-   "stop_words": "مختصرا"
- },
- {
-   "stop_words": "مداوم"
- },
- {
-   "stop_words": "مدام"
- },
- {
-   "stop_words": "مدبر"
- },
- {
-   "stop_words": "مدبرانه"
- },
- {
-   "stop_words": "مدت"
- },
- {
-   "stop_words": "مدتي"
- },
- {
-   "stop_words": "مدتهاست"
- },
- {
-   "stop_words": "مدّتی"
- },
- {
-   "stop_words": "مذهبی"
- },
- {
-   "stop_words": "مر"
- },
- {
-   "stop_words": "مرا"
- },
- {
-   "stop_words": "مراتب"
- },
- {
-   "stop_words": "مردانه"
- },
- {
-   "stop_words": "مردم"
- },
- {
-   "stop_words": "مرسی"
- },
- {
-   "stop_words": "مرتب"
- },
- {
-   "stop_words": "مرتبا"
- },
- {
-   "stop_words": "مستحضريد"
- },
- {
-   "stop_words": "مستحضرید"
- },
- {
-   "stop_words": "مستعد"
- },
- {
-   "stop_words": "مستقيم"
- },
- {
-   "stop_words": "مستقيما"
- },
- {
-   "stop_words": "مستقلا"
- },
- {
-   "stop_words": "مستقیما"
- },
- {
-   "stop_words": "مستند"
- },
- {
-   "stop_words": "مستمر"
- },
- {
-   "stop_words": "مستمرا"
- },
- {
-   "stop_words": "مسيولانه"
- },
- {
-   "stop_words": "مسلم"
- },
- {
-   "stop_words": "مسلما"
- },
- {
-   "stop_words": "مشخص"
- },
- {
-   "stop_words": "مشغول"
- },
- {
-   "stop_words": "مشغولند"
- },
- {
-   "stop_words": "مشت"
- },
- {
-   "stop_words": "مشتركا"
- },
- {
-   "stop_words": "مشترکاً"
- },
- {
-   "stop_words": "مشكل"
- },
- {
-   "stop_words": "مشكلتر"
- },
- {
-   "stop_words": "مطلق"
- },
- {
-   "stop_words": "مطلقا"
- },
- {
-   "stop_words": "مطمانا"
- },
- {
-   "stop_words": "مطمانم"
- },
- {
-   "stop_words": "مطمنا"
- },
- {
-   "stop_words": "مطمینا"
- },
- {
-   "stop_words": "مع"
- },
- {
-   "stop_words": "معدود"
- },
- {
-   "stop_words": "معذوريم"
- },
- {
-   "stop_words": "معذوریم"
- },
- {
-   "stop_words": "معتقديم"
- },
- {
-   "stop_words": "معتقدند"
- },
- {
-   "stop_words": "معتقدم"
- },
- {
-   "stop_words": "معتقدیم"
- },
- {
-   "stop_words": "معلومه"
- },
- {
-   "stop_words": "معلق"
- },
- {
-   "stop_words": "معمولا"
- },
- {
-   "stop_words": "معمولاً"
- },
- {
-   "stop_words": "معمولي"
- },
- {
-   "stop_words": "معمولی"
- },
- {
-   "stop_words": "مغرضانه"
- },
- {
-   "stop_words": "مغلوب"
- },
- {
-   "stop_words": "متؤسفانه"
- },
- {
-   "stop_words": "متاسفانه"
- },
- {
-   "stop_words": "متعاقبا"
- },
- {
-   "stop_words": "متوالي"
- },
- {
-   "stop_words": "متوسفانه"
- },
- {
-   "stop_words": "متفاوتند"
- },
- {
-   "stop_words": "متفكرانه"
- },
- {
-   "stop_words": "متقابلا"
- },
- {
-   "stop_words": "مكرر"
- },
- {
-   "stop_words": "مكررا"
- },
- {
-   "stop_words": "مواجهند"
- },
- {
-   "stop_words": "موارد"
- },
- {
-   "stop_words": "موجب"
- },
- {
-   "stop_words": "موجودند"
- },
- {
-   "stop_words": "موخر"
- },
- {
-   "stop_words": "مورد"
- },
- {
-   "stop_words": "موضوع"
- },
- {
-   "stop_words": "موقعيكه"
- },
- {
-   "stop_words": "موقتا"
- },
- {
-   "stop_words": "مون"
- },
- {
-   "stop_words": "مي"
- },
- {
-   "stop_words": "ميان"
- },
- {
-   "stop_words": "ميزان"
- },
- {
-   "stop_words": "ميليارد"
- },
- {
-   "stop_words": "ميليون"
- },
- {
-   "stop_words": "مفيدند"
- },
- {
-   "stop_words": "مفیدند"
- },
- {
-   "stop_words": "مقابل"
- },
- {
-   "stop_words": "مقال"
- },
- {
-   "stop_words": "مقدار"
- },
- {
-   "stop_words": "مقصر"
- },
- {
-   "stop_words": "مقصري"
- },
- {
-   "stop_words": "مقصرند"
- },
- {
-   "stop_words": "مقصری"
- },
- {
-   "stop_words": "مقلوب"
- },
- {
-   "stop_words": "ملزم"
- },
- {
-   "stop_words": "ملیارد"
- },
- {
-   "stop_words": "ملیون"
- },
- {
-   "stop_words": "من"
- },
- {
-   "stop_words": "منحصر"
- },
- {
-   "stop_words": "منحصرا"
- },
- {
-   "stop_words": "منحصربفرد"
- },
- {
-   "stop_words": "مند"
- },
- {
-   "stop_words": "منصفانه"
- },
- {
-   "stop_words": "منطقا"
- },
- {
-   "stop_words": "منطقي"
- },
- {
-   "stop_words": "منطقی"
- },
- {
-   "stop_words": "منتهي"
- },
- {
-   "stop_words": "منتهی"
- },
- {
-   "stop_words": "مني"
- },
- {
-   "stop_words": "منی"
- },
- {
-   "stop_words": "مهمتره"
- },
- {
-   "stop_words": "مميزيهاست"
- },
- {
-   "stop_words": "ممکن"
- },
- {
-   "stop_words": "ممیزیهاست"
- },
- {
-   "stop_words": "مکرر"
- },
- {
-   "stop_words": "مکرراً"
- },
- {
-   "stop_words": "مگر"
- },
- {
-   "stop_words": "مگراينكه"
- },
- {
-   "stop_words": "مگرانكه"
- },
- {
-   "stop_words": "مگو"
- },
- {
-   "stop_words": "می"
- },
- {
-   "stop_words": "می‌آید"
- },
- {
-   "stop_words": "می‌باشد"
- },
- {
-   "stop_words": "می‌باشند"
- },
- {
-   "stop_words": "می‌خواهیم"
- },
- {
-   "stop_words": "می‌داند"
- },
- {
-   "stop_words": "می‌رسد"
- },
- {
-   "stop_words": "می‌رود"
- },
- {
-   "stop_words": "می‌شد"
- },
- {
-   "stop_words": "می‌شود"
- },
- {
-   "stop_words": "می‌شوند"
- },
- {
-   "stop_words": "می‌توان"
- },
- {
-   "stop_words": "می‌تواند"
- },
- {
-   "stop_words": "می‌توانند"
- },
- {
-   "stop_words": "می‌فرماید"
- },
- {
-   "stop_words": "می‌کند"
- },
- {
-   "stop_words": "می‌کنند"
- },
- {
-   "stop_words": "می‌کنم"
- },
- {
-   "stop_words": "می‌کنیم"
- },
- {
-   "stop_words": "میان"
- },
- {
-   "stop_words": "میباشد"
- },
- {
-   "stop_words": "میخواستن"
- },
- {
-   "stop_words": "میخواهند"
- },
- {
-   "stop_words": "میداد"
- },
- {
-   "stop_words": "میدهد"
- },
- {
-   "stop_words": "میدهم"
- },
- {
-   "stop_words": "میدهیم"
- },
- {
-   "stop_words": "میروم"
- },
- {
-   "stop_words": "میرن"
- },
- {
-   "stop_words": "میرم"
- },
- {
-   "stop_words": "میزان"
- },
- {
-   "stop_words": "میشوند"
- },
- {
-   "stop_words": "میشه"
- },
- {
-   "stop_words": "میكند"
- },
- {
-   "stop_words": "میكنن"
- },
- {
-   "stop_words": "میكنند"
- },
- {
-   "stop_words": "میكنه"
- },
- {
-   "stop_words": "میكنم"
- },
- {
-   "stop_words": "میكنیم"
- },
- {
-   "stop_words": "میلیارد"
- },
- {
-   "stop_words": "میلیون"
- },
- {
-   "stop_words": "مینوشند"
- },
- {
-   "stop_words": "میکند"
- },
- {
-   "stop_words": "میکنن"
- },
- {
-   "stop_words": "میکنند"
- },
- {
-   "stop_words": "میکنه"
- },
- {
-   "stop_words": "میکنم"
- },
- {
-   "stop_words": "میکنی"
- },
- {
-   "stop_words": "میکنید"
- },
- {
-   "stop_words": "میکنیم"
- },
- {
-   "stop_words": "میگردد"
- },
- {
-   "stop_words": "میگن"
- },
- {
-   "stop_words": "میگیره"
- },
- {
-   "stop_words": "ک"
- },
- {
-   "stop_words": "کار"
- },
- {
-   "stop_words": "کارند"
- },
- {
-   "stop_words": "کاش"
- },
- {
-   "stop_words": "کاشکی"
- },
- {
-   "stop_words": "کامل"
- },
- {
-   "stop_words": "کاملا"
- },
- {
-   "stop_words": "کاملاً"
- },
- {
-   "stop_words": "کجا"
- },
- {
-   "stop_words": "کجاست"
- },
- {
-   "stop_words": "کدام"
- },
- {
-   "stop_words": "کرات"
- },
- {
-   "stop_words": "کرد"
- },
- {
-   "stop_words": "کردن"
- },
- {
-   "stop_words": "کردند"
- },
- {
-   "stop_words": "کرده"
- },
- {
-   "stop_words": "کردم"
- },
- {
-   "stop_words": "کردی"
- },
- {
-   "stop_words": "کردید"
- },
- {
-   "stop_words": "کردیم"
- },
- {
-   "stop_words": "کس"
- },
- {
-   "stop_words": "کسانی"
- },
- {
-   "stop_words": "کسی"
- },
- {
-   "stop_words": "کتبا"
- },
- {
-   "stop_words": "کو"
- },
- {
-   "stop_words": "کَی"
- },
- {
-   "stop_words": "کل"
- },
- {
-   "stop_words": "کلا"
- },
- {
-   "stop_words": "کلی"
- },
- {
-   "stop_words": "کلیه"
- },
- {
-   "stop_words": "کن"
- },
- {
-   "stop_words": "کنار"
- },
- {
-   "stop_words": "کنارش"
- },
- {
-   "stop_words": "کنارِ"
- },
- {
-   "stop_words": "کنان"
- },
- {
-   "stop_words": "کنایه‌ای"
- },
- {
-   "stop_words": "کند"
- },
- {
-   "stop_words": "کنون"
- },
- {
-   "stop_words": "کنونی"
- },
- {
-   "stop_words": "کنند"
- },
- {
-   "stop_words": "کننده"
- },
- {
-   "stop_words": "کنم"
- },
- {
-   "stop_words": "کنی"
- },
- {
-   "stop_words": "کنید"
- },
- {
-   "stop_words": "کنیم"
- },
- {
-   "stop_words": "که"
- },
- {
-   "stop_words": "کم"
- },
- {
-   "stop_words": "کمااینکه"
- },
- {
-   "stop_words": "کماکان"
- },
- {
-   "stop_words": "کمتر"
- },
- {
-   "stop_words": "کمتره"
- },
- {
-   "stop_words": "کمتری"
- },
- {
-   "stop_words": "کمک"
- },
- {
-   "stop_words": "کمی"
- },
- {
-   "stop_words": "کی"
- },
- {
-   "stop_words": "گاه"
- },
- {
-   "stop_words": "گاهي"
- },
- {
-   "stop_words": "گاهی"
- },
- {
-   "stop_words": "گذاران"
- },
- {
-   "stop_words": "گذاري"
- },
- {
-   "stop_words": "گذاری"
- },
- {
-   "stop_words": "گذاشتن"
- },
- {
-   "stop_words": "گذاشته"
- },
- {
-   "stop_words": "گذشته"
- },
- {
-   "stop_words": "گر"
- },
- {
-   "stop_words": "گردد"
- },
- {
-   "stop_words": "گرديد"
- },
- {
-   "stop_words": "گردند"
- },
- {
-   "stop_words": "گروهي"
- },
- {
-   "stop_words": "گروهی"
- },
- {
-   "stop_words": "گرفت"
- },
- {
-   "stop_words": "گرفتارند"
- },
- {
-   "stop_words": "گرفتن"
- },
- {
-   "stop_words": "گرفتند"
- },
- {
-   "stop_words": "گرفته"
- },
- {
-   "stop_words": "گرفتم"
- },
- {
-   "stop_words": "گرفتی"
- },
- {
-   "stop_words": "گرفتید"
- },
- {
-   "stop_words": "گرفتیم"
- },
- {
-   "stop_words": "گرنه"
- },
- {
-   "stop_words": "گرمي"
- },
- {
-   "stop_words": "گرمی"
- },
- {
-   "stop_words": "گرچه"
- },
- {
-   "stop_words": "گو"
- },
- {
-   "stop_words": "گويا"
- },
- {
-   "stop_words": "گويان"
- },
- {
-   "stop_words": "گويد"
- },
- {
-   "stop_words": "گويي"
- },
- {
-   "stop_words": "گويند"
- },
- {
-   "stop_words": "گونه"
- },
- {
-   "stop_words": "گوی"
- },
- {
-   "stop_words": "گویا"
- },
- {
-   "stop_words": "گویان"
- },
- {
-   "stop_words": "گوید"
- },
- {
-   "stop_words": "گویند"
- },
- {
-   "stop_words": "گویم"
- },
- {
-   "stop_words": "گویی"
- },
- {
-   "stop_words": "گویید"
- },
- {
-   "stop_words": "گوییم"
- },
- {
-   "stop_words": "گيرد"
- },
- {
-   "stop_words": "گيري"
- },
- {
-   "stop_words": "گفت"
- },
- {
-   "stop_words": "گفتن"
- },
- {
-   "stop_words": "گفتند"
- },
- {
-   "stop_words": "گفته"
- },
- {
-   "stop_words": "گفتم"
- },
- {
-   "stop_words": "گفتی"
- },
- {
-   "stop_words": "گفتید"
- },
- {
-   "stop_words": "گفتیم"
- },
- {
-   "stop_words": "گه"
- },
- {
-   "stop_words": "گهگاه"
- },
- {
-   "stop_words": "گهگاهی"
- },
- {
-   "stop_words": "گمان"
- },
- {
-   "stop_words": "گیر"
- },
- {
-   "stop_words": "گیرد"
- },
- {
-   "stop_words": "گیرند"
- },
- {
-   "stop_words": "گیرم"
- },
- {
-   "stop_words": "گیری"
- },
- {
-   "stop_words": "گیرید"
- },
- {
-   "stop_words": "گیریم"
- },
- {
-   "stop_words": "ژ"
- },
- {
-   "stop_words": "چ"
- },
- {
-   "stop_words": "چارده"
- },
- {
-   "stop_words": "چاپلوسانه"
- },
- {
-   "stop_words": "چاله"
- },
- {
-   "stop_words": "چرا"
- },
- {
-   "stop_words": "چراكه"
- },
- {
-   "stop_words": "چشم"
- },
- {
-   "stop_words": "چطور"
- },
- {
-   "stop_words": "چت"
- },
- {
-   "stop_words": "چته"
- },
- {
-   "stop_words": "چكار"
- },
- {
-   "stop_words": "چو"
- },
- {
-   "stop_words": "چون"
- },
- {
-   "stop_words": "چونه"
- },
- {
-   "stop_words": "چي"
- },
- {
-   "stop_words": "چيز"
- },
- {
-   "stop_words": "چيزي"
- },
- {
-   "stop_words": "چيزيست"
- },
- {
-   "stop_words": "چيزهاست"
- },
- {
-   "stop_words": "چيست"
- },
- {
-   "stop_words": "چيه"
- },
- {
-   "stop_words": "چقدر"
- },
- {
-   "stop_words": "چنان"
- },
- {
-   "stop_words": "چنانكه"
- },
- {
-   "stop_words": "چنانکه"
- },
- {
-   "stop_words": "چنانچه"
- },
- {
-   "stop_words": "چند"
- },
- {
-   "stop_words": "چندان"
- },
- {
-   "stop_words": "چنداني"
- },
- {
-   "stop_words": "چندروزه"
- },
- {
-   "stop_words": "چندين"
- },
- {
-   "stop_words": "چنده"
- },
- {
-   "stop_words": "چندماهه"
- },
- {
-   "stop_words": "چندمين"
- },
- {
-   "stop_words": "چندین"
- },
- {
-   "stop_words": "چنين"
- },
- {
-   "stop_words": "چنین"
- },
- {
-   "stop_words": "چه"
- },
- {
-   "stop_words": "چهار"
- },
- {
-   "stop_words": "چهارهزار"
- },
- {
-   "stop_words": "چکار"
- },
- {
-   "stop_words": "چگونه"
- },
- {
-   "stop_words": "چی"
- },
- {
-   "stop_words": "چیز"
- },
- {
-   "stop_words": "چیزی"
- },
- {
-   "stop_words": "چیزیست"
- },
- {
-   "stop_words": "چیست"
- },
- {
-   "stop_words": "چیه"
- },
- {
-   "stop_words": "یا"
- },
- {
-   "stop_words": "یاب"
- },
- {
-   "stop_words": "یابد"
- },
- {
-   "stop_words": "یابند"
- },
- {
-   "stop_words": "یابم"
- },
- {
-   "stop_words": "یابی"
- },
- {
-   "stop_words": "یابید"
- },
- {
-   "stop_words": "یابیم"
- },
- {
-   "stop_words": "یارب"
- },
- {
-   "stop_words": "یافت"
- },
- {
-   "stop_words": "یافتن"
- },
- {
-   "stop_words": "یافته"
- },
- {
-   "stop_words": "یافتم"
- },
- {
-   "stop_words": "یافتی"
- },
- {
-   "stop_words": "یافتید"
- },
- {
-   "stop_words": "یافتیم"
- },
- {
-   "stop_words": "یرونِ"
- },
- {
-   "stop_words": "یعنی"
- },
- {
-   "stop_words": "یك"
- },
- {
-   "stop_words": "یكدیگر"
- },
- {
-   "stop_words": "یواش"
- },
- {
-   "stop_words": "یقینا"
- },
- {
-   "stop_words": "یقیناً"
- },
- {
-   "stop_words": "یه"
- },
- {
-   "stop_words": "یک"
- },
- {
-   "stop_words": "یکدیگر"
- },
- {
-   "stop_words": "یکریز"
- },
- {
-   "stop_words": "یکسال"
- },
- {
-   "stop_words": "یکهزار"
- },
- {
-   "stop_words": "یکی"
- }
-]
+{
+   "author"        : "Amir Shokri",
+   "email"         : "amirsh.nll@gmail.com",
+   "update_time"   : "1 january, 2021",
+   "stopWords":[
+      "‏آور",
+      "‏آی",
+      "‏باش",
+      "‏خواه",
+      "‏دار",
+      "‏دیگران",
+      "‏شو",
+      "‏توان",
+      "‏کن",
+      "‏گوی",
+      "‏گیر",
+      "‏یاب",
+      "و",
+      "آباد",
+      "آخ",
+      "آخر",
+      "آخرها",
+      "آخه",
+      "آرام",
+      "آره",
+      "آری",
+      "آزادانه",
+      "آسان",
+      "آسانی",
+      "آسیب",
+      "آشنایند",
+      "آشکارا",
+      "آور",
+      "آورد",
+      "آوردن",
+      "آورده",
+      "آوه",
+      "آید",
+      "آقا",
+      "آن",
+      "آن‌ها",
+      "آنان",
+      "آنانی",
+      "آنجا",
+      "آنرا",
+      "آنطور",
+      "آنكه",
+      "آنقدر",
+      "آنها",
+      "آنهاست",
+      "آنکه",
+      "آنگاه",
+      "آنچنان",
+      "آنچه",
+      "آهان",
+      "آهای",
+      "آمد",
+      "آمدن",
+      "آمده",
+      "آمرانه",
+      "آی",
+      "آیا",
+      "آید",
+      "آیند",
+      "ابدا",
+      "ابلهانه",
+      "اثر",
+      "اثرِ",
+      "اجراست",
+      "احتراما",
+      "احتمالا",
+      "احیانا",
+      "احیاناً",
+      "اخ",
+      "اخر",
+      "اخرها",
+      "اختصارا",
+      "اخیرا",
+      "اخه",
+      "اخیر",
+      "اخیرا",
+      "اخیراً",
+      "اراسته",
+      "ارام",
+      "ارایه",
+      "اره",
+      "ارنه",
+      "اره",
+      "اری",
+      "از",
+      "ازادانه",
+      "ازاین",
+      "ازاینرو",
+      "ازان",
+      "ازانجا",
+      "ازانجاكه",
+      "ازاین",
+      "ازبه",
+      "ازجمله",
+      "ازروی",
+      "ازسر",
+      "ازش",
+      "ازو",
+      "ازیك",
+      "ازقبیل",
+      "ازلحاظ",
+      "ازنظر",
+      "اساس",
+      "اساسا",
+      "اساساً",
+      "اسان",
+      "اسانتر",
+      "اسانی",
+      "است",
+      "استفاد",
+      "استفاده",
+      "اش",
+      "اشان",
+      "اشد",
+      "اشتباها",
+      "اشكار",
+      "اشكارا",
+      "اشكارتر",
+      "اشیم",
+      "اشفته",
+      "اشنایند",
+      "اشند",
+      "اشکارا",
+      "اصطلاجا",
+      "اصطلاحا",
+      "اصولا",
+      "اصولاً",
+      "اصلا",
+      "اصلاً",
+      "اطلاعند",
+      "اعلام",
+      "اغلب",
+      "ات",
+      "اتفاقا",
+      "اكثر",
+      "اكثرا",
+      "اكثریت",
+      "اكتسابا",
+      "اكنون",
+      "او",
+      "اورد",
+      "اوردن",
+      "اوست",
+      "اویی",
+      "اول",
+      "اولا",
+      "اولاً",
+      "اولش",
+      "اولین",
+      "اون",
+      "اونا",
+      "اونجا",
+      "اونهمه",
+      "اوه",
+      "ای",
+      "ایا",
+      "اید",
+      "ایشان",
+      "این",
+      "اینان",
+      "اینجا",
+      "اینجاست",
+      "اینجور",
+      "اینجوری",
+      "اینرو",
+      "اینست",
+      "اینطور",
+      "اینك",
+      "اینكه",
+      "اینو",
+      "اینقدر",
+      "اینها",
+      "اینهاست",
+      "اینهمه",
+      "اینگونه",
+      "اینچنین",
+      "ایم",
+      "افزود",
+      "افقی",
+      "اقل",
+      "اقلا",
+      "الا",
+      "الاسف",
+      "الان",
+      "الایِ",
+      "البتّه",
+      "البته",
+      "الزاما",
+      "الظاهر",
+      "التّه",
+      "الته",
+      "الی",
+      "الهی",
+      "الهی",
+      "المقدور",
+      "الی",
+      "ان",
+      "انان",
+      "انانی",
+      "انجام",
+      "اندك",
+      "اندكی",
+      "اندکی",
+      "انرا",
+      "انشاالله",
+      "انصافا",
+      "انطور",
+      "انتها",
+      "انكس",
+      "انكه",
+      "انوقت",
+      "انقدر",
+      "انها",
+      "انهاست",
+      "انم",
+      "انکه",
+      "انگار",
+      "انگاه",
+      "انگونه",
+      "انگه",
+      "انچنان",
+      "انچه",
+      "اه",
+      "اهای",
+      "اهان",
+      "ام",
+      "اما",
+      "امان",
+      "امرانه",
+      "امور",
+      "امیدواریم",
+      "امیدوارند",
+      "امیدوارم",
+      "امیدوارند",
+      "امیدوارم",
+      "امیدواریم",
+      "اکثر",
+      "اکثرا",
+      "اکثراً",
+      "اکثریت",
+      "اکنون",
+      "اگاهانه",
+      "اگر",
+      "اگرنه",
+      "اگرچه",
+      "اگه",
+      "ای",
+      "ایا",
+      "اید",
+      "ایشان",
+      "این",
+      "این‌ها",
+      "اینا",
+      "اینان",
+      "اینجا",
+      "اینجاست",
+      "اینجور",
+      "ایند",
+      "اینطور",
+      "اینطوری",
+      "اینكه",
+      "اینو",
+      "اینقدر",
+      "اینها",
+      "اینهاست",
+      "اینک",
+      "اینکه",
+      "اینگونه",
+      "اینچنین",
+      "ایم",
+      "ب",
+      "با",
+      "بااطمینان",
+      "بااین",
+      "بااینكه",
+      "باانكه",
+      "بااین",
+      "باد",
+      "بار",
+      "باره",
+      "باره",
+      "بارها",
+      "بارهاوبارها",
+      "بارهٌ",
+      "باز",
+      "بازاندیشانه",
+      "بازیگوشانه",
+      "بازهم",
+      "بازم",
+      "بازی",
+      "بازیگوشانه",
+      "باستثنای",
+      "باش",
+      "باشد",
+      "باشیم",
+      "باشند",
+      "باشه",
+      "باشم",
+      "باشی",
+      "باشید",
+      "باشیم",
+      "باعلاقه",
+      "باتوجه",
+      "باوجود",
+      "باوجوداینكه",
+      "باوجودانكه",
+      "باوجودیكه",
+      "باوجودی",
+      "باورند",
+      "باید",
+      "بایستی",
+      "بالا",
+      "بالاخره",
+      "بالاخص",
+      "بالاست",
+      "بالاتر",
+      "بالای",
+      "بالای",
+      "بالایِ",
+      "بالضرور",
+      "بالطبع",
+      "بالعكس",
+      "بالعکس",
+      "بالقوه",
+      "بالله",
+      "بالنسبه",
+      "بالنتیجه",
+      "باهم",
+      "باید",
+      "بجا",
+      "بجای",
+      "بجز",
+      "بخاطر",
+      "بخاطراینكه",
+      "بخردانه",
+      "بخش",
+      "بخشه",
+      "بخشی",
+      "بخصوص",
+      "بخواه",
+      "بخواهد",
+      "بخواهند",
+      "بخواهم",
+      "بخواهی",
+      "بخواهید",
+      "بخواهیم",
+      "بخوبی",
+      "بخوبی",
+      "بد",
+      "بدان",
+      "بدانجا",
+      "بدانها",
+      "بدبینانه",
+      "بدخواهانه",
+      "بدرستی",
+      "بدرشتی",
+      "بدون",
+      "بدین",
+      "بدینجا",
+      "بدینسان",
+      "بدلخواه",
+      "بدهید",
+      "بدم",
+      "بدین",
+      "بدینجا",
+      "بر",
+      "برآن",
+      "برآنند",
+      "برا",
+      "برابر",
+      "برابرِ",
+      "براثر",
+      "براحتی",
+      "براساس",
+      "براستی",
+      "براستی",
+      "برای",
+      "برایش",
+      "برایشان",
+      "برایت",
+      "برایم",
+      "برایمان",
+      "بران",
+      "برانند",
+      "برانهاست",
+      "برای",
+      "برایش",
+      "برایشان",
+      "برایت",
+      "برایِ",
+      "برایم",
+      "برایمان",
+      "برحسب",
+      "برخوردار",
+      "برخوردارند",
+      "برخی",
+      "برخلاف",
+      "برخی",
+      "برداری",
+      "برداری",
+      "برداشتن",
+      "بردن",
+      "برروی",
+      "برعكس",
+      "برعکس",
+      "برغم",
+      "برپا",
+      "برو",
+      "بروز",
+      "بروشنی",
+      "بروشنی",
+      "برنامه",
+      "برنمی",
+      "برمی",
+      "بری",
+      "برید",
+      "بریزید",
+      "بریم",
+      "بزرگ",
+      "بزعم",
+      "بزودی",
+      "بزودی",
+      "بزنید",
+      "بس",
+      "بسا",
+      "بسادگی",
+      "بسادگی",
+      "بسختی",
+      "بسختی",
+      "بسرعت",
+      "بسته",
+      "بسوی",
+      "بسوی",
+      "بسی",
+      "بسیار",
+      "بسیاری",
+      "بسهولت",
+      "بسی",
+      "بسیار",
+      "بسیاری",
+      "بشان",
+      "بشدت",
+      "بشوند",
+      "بشن",
+      "بشم",
+      "بشی",
+      "بشید",
+      "بصورت",
+      "بطبع",
+      "بطور",
+      "بطوركلی",
+      "بطوری",
+      "بطوریكه",
+      "بطوری",
+      "بعد",
+      "بعدا",
+      "بعداز",
+      "بعدازاین",
+      "بعدازان",
+      "بعدازظهر",
+      "بعداً",
+      "بعدی",
+      "بعدها",
+      "بعری",
+      "بعضا",
+      "بعضی",
+      "بعضیشان",
+      "بعضیها",
+      "بعضیهاشان",
+      "بعضیهایشان",
+      "بعضی",
+      "بعضی‌ها",
+      "بعضیهایشان",
+      "بعید",
+      "بعلاوه",
+      "بعید",
+      "بتازگی",
+      "بتدریج",
+      "بتدریج",
+      "بتوان",
+      "بتواند",
+      "بتوانی",
+      "بتوانیم",
+      "بتمامی",
+      "بپا",
+      "بكار",
+      "بكرات",
+      "بوجود",
+      "بود",
+      "بودن",
+      "بودند",
+      "بوده",
+      "بودم",
+      "بودی",
+      "بودید",
+      "بودیم",
+      "بوضوح",
+      "بویژه",
+      "بویژه",
+      "بی",
+      "بیرون",
+      "بیست",
+      "بیش",
+      "بیشتر",
+      "بیشتری",
+      "بین",
+      "بینابین",
+      "بیهوده",
+      "بیگمان",
+      "بفهمی",
+      "بفهمی",
+      "بقدری",
+      "بلادرنگ",
+      "بلافاصله",
+      "بلكه",
+      "بله",
+      "بلکه",
+      "بلی",
+      "بنابراین",
+      "بنابراین",
+      "بنابه",
+      "بناچار",
+      "بندرت",
+      "بندی",
+      "بندی",
+      "به",
+      "بهرحال",
+      "بهش",
+      "بهشون",
+      "بهت",
+      "بهتر",
+      "بهترین",
+      "بهترین",
+      "بهیچ",
+      "بهم",
+      "بماند",
+      "بمراتب",
+      "بموجب",
+      "بموقع",
+      "بکار",
+      "بکن",
+      "بکند",
+      "بکنند",
+      "بکنم",
+      "بکنی",
+      "بکنید",
+      "بکنیم",
+      "بگذاریم",
+      "بگرمی",
+      "بگو",
+      "بگوید",
+      "بگویند",
+      "بگویم",
+      "بگویی",
+      "بگویید",
+      "بگوییم",
+      "بگیر",
+      "بگیرد",
+      "بگیرند",
+      "بگیرم",
+      "بگیری",
+      "بگیرید",
+      "بگیریم",
+      "بی",
+      "بیا",
+      "بیاب",
+      "بیابد",
+      "بیابند",
+      "بیابم",
+      "بیابی",
+      "بیابید",
+      "بیابیم",
+      "بیاد",
+      "بیاریم",
+      "بیاور",
+      "بیاورد",
+      "بیاورند",
+      "بیاورم",
+      "بیاوری",
+      "بیاورید",
+      "بیاوریم",
+      "بیاید",
+      "بیایند",
+      "بیایم",
+      "بیایی",
+      "بیایید",
+      "بیاییم",
+      "بیرون",
+      "بیرونِ",
+      "بیست",
+      "بیش",
+      "بیشتر",
+      "بیشتری",
+      "بین",
+      "بینمان",
+      "بیگمان",
+      "ث",
+      "ثالثا",
+      "ثالثاً",
+      "ثانی",
+      "ثانیا",
+      "ثانی",
+      "ثانیا",
+      "ثانیاً",
+      "ج",
+      "جا",
+      "جای",
+      "جایی",
+      "جای",
+      "جایی",
+      "جبرگرایانه",
+      "جدا",
+      "جدااز",
+      "جداازهم",
+      "جداً",
+      "جداگانه",
+      "جدی",
+      "جدید",
+      "جدیدا",
+      "جدید",
+      "جدیدا",
+      "جریان",
+      "جرمزاست",
+      "جریان",
+      "جز",
+      "جزجز",
+      "جسورانه",
+      "جور",
+      "جوری",
+      "جوری",
+      "جلو",
+      "جلوتر",
+      "جلوی",
+      "جلویری",
+      "جلوگیری",
+      "جلوگیری",
+      "جلوی",
+      "جلویِ",
+      "جنابعالی",
+      "جنابعالی",
+      "جناح",
+      "جنس",
+      "جهت",
+      "جمع",
+      "جمعا",
+      "جمعی",
+      "جمعی",
+      "جمله",
+      "ح",
+      "حاشا",
+      "حاشاوكلا",
+      "حاشیه",
+      "حاشیه‌ای",
+      "حاضر",
+      "حاضرم",
+      "حاكیست",
+      "حال",
+      "حالا",
+      "حالكه",
+      "حالی",
+      "حاکیست",
+      "حداكثر",
+      "حداقل",
+      "حداکثر",
+      "حدود",
+      "حدودا",
+      "حدودِ",
+      "حرف",
+      "حسابی",
+      "حسابگرانه",
+      "حسابی",
+      "حسب",
+      "حضرتعالی",
+      "حضرتعالی",
+      "حتی",
+      "حتما",
+      "حتماً",
+      "حتی",
+      "حكیمانه",
+      "حكما",
+      "حول",
+      "حق",
+      "حقیرانه",
+      "حقیقتا",
+      "حقیرانه",
+      "حقیقتا",
+      "حکماً",
+      "خارج",
+      "خارجِ",
+      "خاست",
+      "خالص",
+      "خالصانه",
+      "خالی",
+      "خام",
+      "خامسا",
+      "خب",
+      "خداحافظ",
+      "خداست",
+      "خداگونه",
+      "خدمات",
+      "خردمندانه",
+      "خسته",
+      "خسته‌ای",
+      "خشمگین",
+      "خصوصا",
+      "خصوصاً",
+      "خصمانه",
+      "خواست",
+      "خواستن",
+      "خواستند",
+      "خواسته",
+      "خواستم",
+      "خواستی",
+      "خواستید",
+      "خواستیم",
+      "خواه",
+      "خواهد",
+      "خواهش",
+      "خواهیم",
+      "خواهند",
+      "خواهم",
+      "خواهی",
+      "خواهید",
+      "خواهیم",
+      "خواهیمكرد",
+      "خوب",
+      "خوبست",
+      "خوبتر",
+      "خوبی",
+      "خوبی",
+      "خود",
+      "خوداند",
+      "خوداگاهانه",
+      "خودبه",
+      "خودرا",
+      "خودش",
+      "خودشان",
+      "خودت",
+      "خودتان",
+      "خودتو",
+      "خودی",
+      "خودنمایانه",
+      "خودم",
+      "خودمان",
+      "خودمختارانه",
+      "خودمو",
+      "خودی",
+      "خوردن",
+      "خوش",
+      "خوشبختانه",
+      "خوشبینانه",
+      "خوشحال",
+      "خوتهد",
+      "خویش",
+      "خویشتنم",
+      "خوگیرانه",
+      "خویش",
+      "خویشتن",
+      "خویشتنم",
+      "خیر",
+      "خیره",
+      "خیلی",
+      "خلاصه",
+      "خلاقانه",
+      "خیاه",
+      "خیر",
+      "خیره",
+      "خیلی",
+      "داام",
+      "دااما",
+      "داخل",
+      "داد",
+      "دادن",
+      "دادند",
+      "داده",
+      "دادم",
+      "دادی",
+      "دادید",
+      "دادیم",
+      "دارا",
+      "داراست",
+      "دارای",
+      "دارای",
+      "دارد",
+      "داریم",
+      "دارند",
+      "داره",
+      "دارم",
+      "داری",
+      "دارید",
+      "داریم",
+      "داشت",
+      "داشتن",
+      "داشتند",
+      "داشته",
+      "داشتم",
+      "داشتی",
+      "داشتید",
+      "داشتیم",
+      "داوطلبانه",
+      "دایم",
+      "دایما",
+      "دانست",
+      "دانند",
+      "دامم",
+      "دایم",
+      "دایما",
+      "دخترانه",
+      "در",
+      "دراثر",
+      "دراره",
+      "درازا",
+      "درازای",
+      "دراین",
+      "دران",
+      "دراین",
+      "درباب",
+      "درباره",
+      "دربدر",
+      "دربر",
+      "دربرابر",
+      "دربه",
+      "درثانی",
+      "درحال",
+      "درحالی",
+      "درحالیكه",
+      "درحالی",
+      "درحالیکه",
+      "دردكشان",
+      "درراستای",
+      "درست",
+      "درسته",
+      "درشت",
+      "درشتی",
+      "درشتی",
+      "درصورتی",
+      "درصورتیكه",
+      "درصورتی",
+      "درطی",
+      "درعین",
+      "درعین",
+      "درتخت",
+      "درپی",
+      "درپی",
+      "دركل",
+      "دركنار",
+      "درواقع",
+      "درون",
+      "دریغ",
+      "دریغا",
+      "درنتیجه",
+      "درنهایت",
+      "درهر",
+      "درهرحال",
+      "درهرصورت",
+      "درمجموع",
+      "درمورد",
+      "درمیان",
+      "درمقابل",
+      "دریغ",
+      "دریغا",
+      "درین",
+      "دسته",
+      "دشوار",
+      "دشوارتر",
+      "دشمنیم",
+      "دشمنیم",
+      "دو",
+      "دوباره",
+      "دوباره‌ای",
+      "دور",
+      "دوراز",
+      "دورتر",
+      "دوساله",
+      "دوستانه",
+      "دوتا",
+      "دوتادوتا",
+      "دون",
+      "دونید",
+      "دوم",
+      "دیده",
+      "دیر",
+      "دیران",
+      "دیرت",
+      "دیروز",
+      "دیروزبه",
+      "دیری",
+      "دیرم",
+      "دیشب",
+      "دیوانه",
+      "دیوی",
+      "دیگر",
+      "دیگران",
+      "دیگرتا",
+      "دیگری",
+      "دیگه",
+      "دقیق",
+      "دقیقا",
+      "دقیقا",
+      "دلخواه",
+      "دلخوش",
+      "دلشاد",
+      "دنالِ",
+      "دنبال",
+      "دنبالِ",
+      "ده",
+      "دهد",
+      "دهند",
+      "دهم",
+      "دهی",
+      "دهید",
+      "دهیم",
+      "دم",
+      "دگربار",
+      "دگرباره",
+      "دگرگون",
+      "دچار",
+      "دیده",
+      "دیر",
+      "دیرت",
+      "دیروز",
+      "دیرم",
+      "دیشب",
+      "دیوانه‌ای",
+      "دیوی",
+      "دیگر",
+      "دیگران",
+      "دیگری",
+      "دیگه",
+      "ذاری",
+      "ذاشته",
+      "ذاتا",
+      "ذاتاً",
+      "ذالك",
+      "ذیل",
+      "ذیلا",
+      "ذلک",
+      "را",
+      "رااز",
+      "رابسیار",
+      "رابه",
+      "راجع",
+      "راحت",
+      "راحتر",
+      "رادر",
+      "رارِ",
+      "راسا",
+      "راساس",
+      "راست",
+      "راستا",
+      "راستی",
+      "راستی",
+      "رای",
+      "راه",
+      "رایِ",
+      "رخوردار",
+      "رخی",
+      "رداری",
+      "ردد",
+      "رسما",
+      "رسید",
+      "رسیده",
+      "رشته",
+      "رغم",
+      "رو",
+      "رواست",
+      "روب",
+      "روبرو",
+      "روبروست",
+      "روبه",
+      "روز",
+      "روزانه",
+      "روزبروز",
+      "روزه",
+      "روزه‌ای",
+      "روزهای",
+      "روزهای",
+      "روزمره",
+      "روش",
+      "روشن",
+      "روشنی",
+      "روشنی",
+      "روی",
+      "رویش",
+      "روهی",
+      "روى",
+      "روی",
+      "رویش",
+      "رویِ",
+      "رویم",
+      "ریاكارانه",
+      "ریز",
+      "ریزان",
+      "ریزی",
+      "رفت",
+      "رفتارهاست",
+      "رفته",
+      "رفته‌ام",
+      "رنجند",
+      "رندانه",
+      "ره",
+      "رهگشاست",
+      "ریزی",
+      "زد",
+      "زدن",
+      "زده",
+      "زشت",
+      "زشتکارانند",
+      "زو",
+      "زود",
+      "زودتر",
+      "زودی",
+      "زودی",
+      "زیاد",
+      "زیادتر",
+      "زیاده",
+      "زیبا",
+      "زیباتر",
+      "زیر",
+      "زیرا",
+      "زیراكه",
+      "زیركانه",
+      "زیرند",
+      "زیرچشمی",
+      "زین",
+      "زنند",
+      "زهی",
+      "زهی",
+      "زمان",
+      "زمانی",
+      "زمانی",
+      "زمینه",
+      "زیاد",
+      "زیاده",
+      "زیر",
+      "زیرا",
+      "زیرِ",
+      "زیرچشمی",
+      "سابق",
+      "سابقا",
+      "ساختن",
+      "ساخته",
+      "ساخته‌ام",
+      "ساده",
+      "سادگی",
+      "سادگی",
+      "سازان",
+      "سازی",
+      "سازهاست",
+      "سازگارانه",
+      "سازی",
+      "ساكنند",
+      "سایر",
+      "سایران",
+      "سایرین",
+      "ساق",
+      "سالانه",
+      "سالته",
+      "سالیانه",
+      "ساله",
+      "سالهاست",
+      "سالم",
+      "سالم‌تر",
+      "سالیانه",
+      "ساکنند",
+      "سایر",
+      "سخت",
+      "سختتر",
+      "سخته",
+      "سر",
+      "سراسر",
+      "سراپا",
+      "سرانجام",
+      "سرعت",
+      "سری",
+      "سریع",
+      "سریعا",
+      "سری",
+      "سریع",
+      "سریعا",
+      "سریعاً",
+      "سریِ",
+      "سعی",
+      "سعی",
+      "ست",
+      "سپس",
+      "سوی",
+      "سوم",
+      "سوی",
+      "سویِ",
+      "سیار",
+      "سیاری",
+      "سیاه",
+      "سیخ",
+      "سنگدلانه",
+      "سنگین",
+      "سه",
+      "سهوا",
+      "سهواً",
+      "سمت",
+      "سمتِ",
+      "سیاه",
+      "سیخ",
+      "ش",
+      "شاأالله",
+      "شااالله",
+      "شاد",
+      "شادتر",
+      "شادمان",
+      "شاكله",
+      "شاید",
+      "شان",
+      "شاهدیم",
+      "شاهدند",
+      "شاهدیم",
+      "شاید",
+      "شب",
+      "شبانه",
+      "شبهاست",
+      "شجاعانه",
+      "شخصا",
+      "شخصاً",
+      "شد",
+      "شدت",
+      "شدیدا",
+      "شدن",
+      "شدند",
+      "شده",
+      "شده‌اند",
+      "شدم",
+      "شدی",
+      "شدید",
+      "شدیدا",
+      "شدیداً",
+      "شدیم",
+      "شرط",
+      "شش",
+      "شتابان",
+      "شتابزده",
+      "شو",
+      "شود",
+      "شوراست",
+      "شوقم",
+      "شوند",
+      "شونده",
+      "شوم",
+      "شوی",
+      "شوید",
+      "شویم",
+      "شیرین",
+      "شیرینه",
+      "شیك",
+      "شناسی",
+      "شناسی",
+      "شناسید",
+      "شما",
+      "شماری",
+      "شماری",
+      "شماست",
+      "شمایند",
+      "شمایند",
+      "شیرین",
+      "شیرینه",
+      "شیک",
+      "ص",
+      "صادقانه",
+      "صاف",
+      "صبح",
+      "صد",
+      "صدالبته",
+      "صددرصد",
+      "صراحتا",
+      "صریح",
+      "صریحا",
+      "صریحتر",
+      "صرفا",
+      "صرفاً",
+      "صریحاً",
+      "صورت",
+      "صندوق",
+      "صمیمانه",
+      "ض",
+      "ضد",
+      "ضدِّ",
+      "ضدِّ",
+      "ضرورتا",
+      "ضعیف",
+      "ضعیفتر",
+      "ضمن",
+      "ضمنا",
+      "ضمناً",
+      "طبعا",
+      "طبعاً",
+      "طبیعتا",
+      "طبقِ",
+      "طبیعتا",
+      "طریق",
+      "طرف",
+      "طریق",
+      "طور",
+      "طوری",
+      "طوری",
+      "طی",
+      "طقِ",
+      "طلبكارانه",
+      "طلبکارانه",
+      "طی",
+      "ظاهرا",
+      "ظاهراً",
+      "ظهر",
+      "عاجزانه",
+      "عادلانه",
+      "عاقبت",
+      "عاقلانه",
+      "عالی",
+      "عالمانه",
+      "عبارتند",
+      "عج",
+      "عجب",
+      "عجولانه",
+      "عدم",
+      "عرفانی",
+      "عرفانی",
+      "عری",
+      "عزیز",
+      "عضی",
+      "عینا",
+      "عقب",
+      "عقبتر",
+      "عقبِ",
+      "عقِ",
+      "علارغم",
+      "علاوه",
+      "علت",
+      "علیرغم",
+      "علیه",
+      "علّتِ",
+      "علنا",
+      "علناً",
+      "علی",
+      "علیرغم",
+      "علیه",
+      "عن",
+      "عنوان",
+      "عنوانِ",
+      "عنقریب",
+      "عنقریب",
+      "عمدا",
+      "عمداً",
+      "عمدتا",
+      "عمدتاً",
+      "عمدی",
+      "عمده",
+      "عموم",
+      "عموما",
+      "عموماً",
+      "عمیقا",
+      "عمل",
+      "عملا",
+      "عملاً",
+      "عملی",
+      "عملگرایانه",
+      "عملی",
+      "عیناً",
+      "غالبا",
+      "غزالان",
+      "غیر",
+      "غیراز",
+      "غیرازاین",
+      "غیرازان",
+      "غیرطبیعی",
+      "غیرعمدی",
+      "غیرتصادفی",
+      "غیریكسان",
+      "غیر",
+      "تا",
+      "تااینجا",
+      "تااینكه",
+      "تاانجا",
+      "تاانجاكه",
+      "تاانكه",
+      "تابه",
+      "تاجاییكه",
+      "تاحدودی",
+      "تاحدی",
+      "تاحدی",
+      "تازه",
+      "تازگی",
+      "تازگی",
+      "تاكنون",
+      "تاوقتی",
+      "تاوقتیكه",
+      "تان",
+      "تاکنون",
+      "تحریم",
+      "تحت",
+      "تحقیق",
+      "تدریج",
+      "تدریجا",
+      "تدریجی",
+      "تدریج",
+      "تدریجا",
+      "تر",
+      "ترجیحا",
+      "تردید",
+      "تردید",
+      "ترتیب",
+      "ترتیب",
+      "تری",
+      "ترین",
+      "ترند",
+      "تریلیارد",
+      "تریلیون",
+      "ترین",
+      "تصریحا",
+      "تصریحاً",
+      "تعدادی",
+      "تعدادی",
+      "تعمدا",
+      "تك",
+      "تو",
+      "توؤماً",
+      "توان",
+      "تواند",
+      "توانست",
+      "توانستن",
+      "توانستند",
+      "توانسته",
+      "توانستم",
+      "توانستی",
+      "توانستیم",
+      "توانند",
+      "توانم",
+      "توانی",
+      "توانید",
+      "توانیم",
+      "توسط",
+      "تووما",
+      "تونست",
+      "توی",
+      "تویِ",
+      "تفاوت",
+      "تفاوتند",
+      "تفننی",
+      "تقریبا",
+      "تقریبا",
+      "تقریباً",
+      "تلویحا",
+      "تلویحا",
+      "تلویحاً",
+      "تند",
+      "تنها",
+      "تنهایی",
+      "تنگاتنگ",
+      "تمام",
+      "تماما",
+      "تمامشان",
+      "تمامی",
+      "تمامی",
+      "تک",
+      "پارسایانه",
+      "پارسال",
+      "پارسایانه",
+      "پاره",
+      "پاره‌ای",
+      "پاعینِ",
+      "پایین",
+      "پایین",
+      "پدرانه",
+      "پدرپی",
+      "پدیده",
+      "پذیر",
+      "پذیرند",
+      "پذیرند",
+      "پراز",
+      "پس",
+      "پشت",
+      "پشتوانه",
+      "پشیمونی",
+      "پشیمونی",
+      "پی",
+      "پیامبرانه",
+      "پیداست",
+      "پیدرپی",
+      "پیرامون",
+      "پیش",
+      "پیشاپیش",
+      "پیشتر",
+      "پیوسته",
+      "پیگیر",
+      "پنج",
+      "پنهان",
+      "پهن",
+      "پی",
+      "پیدا",
+      "پیداست",
+      "پیرامون",
+      "پیش",
+      "پیشاپیش",
+      "پیششون",
+      "پیشتر",
+      "پیشِ",
+      "پیوسته",
+      "ك",
+      "كارافرینانه",
+      "كاربرمدارانه",
+      "كارند",
+      "كاش",
+      "كاشكی",
+      "كاین",
+      "كان",
+      "كاملا",
+      "كاملتر",
+      "كجا",
+      "كجاست",
+      "كدام",
+      "كدامیك",
+      "كدامند",
+      "كرات",
+      "كرد",
+      "كردن",
+      "كردند",
+      "كرده",
+      "كردم",
+      "كردید",
+      "كردیم",
+      "كز",
+      "كزین",
+      "كس",
+      "كسانی",
+      "كسی",
+      "كسی",
+      "كشیدن",
+      "كودكانه",
+      "كوركورانه",
+      "كی",
+      "كیست",
+      "كَی",
+      "كل",
+      "كلا",
+      "كلی",
+      "كلیشه",
+      "كلی",
+      "كنار",
+      "كنارش",
+      "كنارِ",
+      "كنایه",
+      "كنان",
+      "كند",
+      "كنید",
+      "كنیم",
+      "كنن",
+      "كنند",
+      "كننده",
+      "كنه",
+      "كنم",
+      "كنی",
+      "كنید",
+      "كنیم",
+      "كه",
+      "كم",
+      "كمابیش",
+      "كماكان",
+      "كمتر",
+      "كمتره",
+      "كمی",
+      "كی",
+      "و",
+      "وابسته",
+      "وارد",
+      "واسش",
+      "واضح",
+      "واضحتر",
+      "وای",
+      "واقع",
+      "واقعا",
+      "واقعاً",
+      "واقعی",
+      "واقعی",
+      "واقفند",
+      "واما",
+      "وای",
+      "وبرای",
+      "وجود",
+      "وجودیكه",
+      "وجه",
+      "وحشت",
+      "ود",
+      "ودن",
+      "ودند",
+      "وده",
+      "ور",
+      "ورا",
+      "ورای",
+      "وزو",
+      "وسطِ",
+      "وضع",
+      "وضوح",
+      "وی",
+      "ویا",
+      "وید",
+      "ویند",
+      "ویژه",
+      "وقتی",
+      "وقتیكه",
+      "وقتی",
+      "وقتیكه",
+      "وقتیکه",
+      "ولی",
+      "ولیكن",
+      "ولی",
+      "ونن",
+      "وهمین",
+      "وگر",
+      "وگرد",
+      "وگرنه",
+      "وگو",
+      "وی",
+      "ویا",
+      "ویژه",
+      "ی",
+      "یا",
+      "یااز",
+      "یااینكه",
+      "یاانكه",
+      "یابد",
+      "یاد",
+      "یارب",
+      "یافتن",
+      "یرد",
+      "یری",
+      "یست",
+      "یش",
+      "یشتر",
+      "یشتری",
+      "یعنی",
+      "یك",
+      "یكایك",
+      "یكبار",
+      "یكباره",
+      "یكجا",
+      "یكجانبه",
+      "یكجور",
+      "یكجوری",
+      "یكدیر",
+      "یكدیگر",
+      "یكدم",
+      "یكریز",
+      "یكزمان",
+      "یكسال",
+      "یكسری",
+      "یكسره",
+      "یكطرفه",
+      "یكپارچه",
+      "یكی",
+      "یكنواخت",
+      "یواش",
+      "یقینا",
+      "یه",
+      "فاقد",
+      "فبها",
+      "فر",
+      "فراتر",
+      "فراتراز",
+      "فراوان",
+      "فردا",
+      "فرماید",
+      "فعالانه",
+      "فعلا",
+      "فعلاً",
+      "فورا",
+      "فوری",
+      "فوق",
+      "فقط",
+      "فلان",
+      "فلذا",
+      "فناورانه",
+      "فهرستوار",
+      "فکر",
+      "قاالند",
+      "قابل",
+      "قاطبه",
+      "قاطعانه",
+      "قاعدتا",
+      "قاعدتاً",
+      "قال",
+      "قانونا",
+      "قانوناً",
+      "قبل",
+      "قبلا",
+      "قبلاً",
+      "قبلند",
+      "قد",
+      "قدر",
+      "قدری",
+      "قدرمسلم",
+      "قدری",
+      "قرار",
+      "قراردادن",
+      "قریب",
+      "قصدِ",
+      "قضایاست",
+      "قضایاست",
+      "قطعا",
+      "قطعاً",
+      "قیلا",
+      "قل",
+      "لا",
+      "لااقل",
+      "لاجرم",
+      "لذا",
+      "لزوما",
+      "لزوماً",
+      "لطفا",
+      "لطفاً",
+      "لكه",
+      "لیكن",
+      "له",
+      "لکه",
+      "لی",
+      "لیکن",
+      "ناامید",
+      "ناامید",
+      "نااگاهانه",
+      "ناخواسته",
+      "ناخوانده",
+      "نادیده",
+      "ناراضی",
+      "ناراضی",
+      "ناراین",
+      "ناسازگارانه",
+      "ناشی",
+      "ناشناخته",
+      "ناشی",
+      "ناتوان",
+      "ناپذیر",
+      "ناكام",
+      "ناید",
+      "ناهشیار",
+      "نام",
+      "ناگاه",
+      "ناگزیر",
+      "ناگزیر",
+      "ناگهان",
+      "ناگهانی",
+      "ناچار",
+      "نباش",
+      "نباید",
+      "نباید",
+      "نبش",
+      "نبود",
+      "نحوه",
+      "نخست",
+      "نخستین",
+      "نخستین",
+      "نخواهد",
+      "نخواهند",
+      "نخواهم",
+      "نخواهی",
+      "نخواهید",
+      "نخواهیم",
+      "نخودی",
+      "نخودی",
+      "نداد",
+      "ندارد",
+      "ندارند",
+      "نداره",
+      "ندارم",
+      "نداری",
+      "ندارید",
+      "نداریم",
+      "نداشت",
+      "نداشتند",
+      "نداشته",
+      "نداشتم",
+      "نداشتی",
+      "نداشتید",
+      "نداشتیم",
+      "ندرت",
+      "ندرتا",
+      "ندی",
+      "ندیدی",
+      "نرم",
+      "نرمی",
+      "نریم",
+      "نزد",
+      "نزدیك",
+      "نزدیكتر",
+      "نزدِ",
+      "نزدیك",
+      "نزدیكِ",
+      "نزدیم",
+      "نزدیک",
+      "نزدیکِ",
+      "نسبت",
+      "نسبتا",
+      "نشان",
+      "نشده",
+      "نشون",
+      "نظرا",
+      "نظربه",
+      "نظیر",
+      "نظیر",
+      "نتیجتا",
+      "نكرده",
+      "نكنند",
+      "نكنه",
+      "نواورانه",
+      "نود",
+      "نوشت",
+      "نوع",
+      "نوعا",
+      "نوعاً",
+      "نوعی",
+      "نوعی",
+      "نومید",
+      "نیازمندانه",
+      "نیازمندند",
+      "نیز",
+      "نیست",
+      "نیك",
+      "نیمی",
+      "نفرند",
+      "نفهمی",
+      "نفهمی",
+      "نقادانه",
+      "نه",
+      "نهایت",
+      "نهایتا",
+      "نهان",
+      "نهایت",
+      "نهایتا",
+      "نهایتاً",
+      "نماید",
+      "نماید",
+      "نمایش",
+      "نموده",
+      "نمی",
+      "نمی",
+      "نمی‌شود",
+      "نمی‌کند",
+      "نمیاورم",
+      "نمیبرد",
+      "نمیروم",
+      "نمیكنن",
+      "نمیكنند",
+      "نمیمونید",
+      "نمیگیرند",
+      "نکرده",
+      "نکن",
+      "نکند",
+      "نکنند",
+      "نکنم",
+      "نکنی",
+      "نکنید",
+      "نکنیم",
+      "نگاه",
+      "نگو",
+      "نیازمندانه",
+      "نیازمندند",
+      "نیز",
+      "نیست",
+      "نیستند",
+      "نیستم",
+      "نیستیم",
+      "نیمی",
+      "ه",
+      "ها",
+      "هاست",
+      "هاش",
+      "های",
+      "هایی",
+      "هان",
+      "های",
+      "هایت",
+      "هایی",
+      "هبچ",
+      "هدف",
+      "هر",
+      "هرازچندگاهی",
+      "هرانچه",
+      "هرجا",
+      "هرحال",
+      "هرز",
+      "هرزچندگاهی",
+      "هرساله",
+      "هركدام",
+      "هركس",
+      "هركسی",
+      "هركه",
+      "هروقت",
+      "هرقدر",
+      "هرکس",
+      "هرگاه",
+      "هرگز",
+      "هرگونه",
+      "هرچقدر",
+      "هرچند",
+      "هرچه",
+      "هزار",
+      "هزارها",
+      "هست",
+      "هستیم",
+      "هستن",
+      "هستند",
+      "هستم",
+      "هستی",
+      "هستید",
+      "هستیم",
+      "هشان",
+      "هشیارانه",
+      "هترین",
+      "هوشیارانه",
+      "هوشمندانه",
+      "هوی",
+      "هوی",
+      "هی",
+      "هیچ",
+      "هیچكدام",
+      "هیچكس",
+      "هیچی",
+      "هیچیك",
+      "هیچگاه",
+      "هیچگونه",
+      "هفت",
+      "هق",
+      "هنام",
+      "هنامِ",
+      "هنامی",
+      "هنوز",
+      "هنگام",
+      "هنگامیكه",
+      "هنگامِ",
+      "هنگامی",
+      "هم",
+      "همان",
+      "همانا",
+      "همانطور",
+      "همانطوركه",
+      "همانطوری",
+      "همانطوریكه",
+      "همانی",
+      "همانقدر",
+      "همانند",
+      "همانها",
+      "هماهنگتر",
+      "همخوان",
+      "همدیگر",
+      "همدلانه",
+      "همدیگر",
+      "همزمان",
+      "همسو",
+      "همسوبا",
+      "همكارانه",
+      "همواره",
+      "همی",
+      "همیشه",
+      "همیشگی",
+      "همین",
+      "همینطور",
+      "همینطوركه",
+      "همینطوری",
+      "همینطوریكه",
+      "همینكه",
+      "همنوا",
+      "همه",
+      "همه‌اش",
+      "همهٌ",
+      "هممون",
+      "همگان",
+      "همگام",
+      "همگی",
+      "همگی",
+      "همچون",
+      "همچین",
+      "همچنان",
+      "همچنانكه",
+      "همچنین",
+      "همچنین",
+      "همچین",
+      "همیشه",
+      "همین",
+      "هی",
+      "هیچ",
+      "هیچکدام",
+      "هیچکس",
+      "هیچگاه",
+      "هیچگونه",
+      "هیچی",
+      "ما",
+      "مادام",
+      "مادامی",
+      "مادامیكه",
+      "مادامی",
+      "ماست",
+      "ماشینوار",
+      "مات",
+      "مایی",
+      "ماقبل",
+      "مالا",
+      "مالامال",
+      "مان",
+      "مانند",
+      "مانندِ",
+      "ماهرانه",
+      "ماهیتا",
+      "مامان",
+      "مبادا",
+      "مثابه",
+      "مثل",
+      "مثلا",
+      "مثلِ",
+      "مجانی",
+      "مجبورند",
+      "مجددا",
+      "مجدداً",
+      "مجرمانه",
+      "مجموع",
+      "مجموعا",
+      "مجموعاً",
+      "محتاجند",
+      "محتاط",
+      "محتاطانه",
+      "محكم",
+      "محکم",
+      "محکم‌تر",
+      "مخالفند",
+      "مخصوصا",
+      "مخصوصاً",
+      "مختصر",
+      "مختصرا",
+      "مداوم",
+      "مدام",
+      "مدبر",
+      "مدبرانه",
+      "مدت",
+      "مدتی",
+      "مدتهاست",
+      "مدّتی",
+      "مذهبی",
+      "مر",
+      "مرا",
+      "مراتب",
+      "مردانه",
+      "مردم",
+      "مرسی",
+      "مرتب",
+      "مرتبا",
+      "مستحضرید",
+      "مستحضرید",
+      "مستعد",
+      "مستقیم",
+      "مستقیما",
+      "مستقلا",
+      "مستقیما",
+      "مستند",
+      "مستمر",
+      "مستمرا",
+      "مسیولانه",
+      "مسلم",
+      "مسلما",
+      "مشخص",
+      "مشغول",
+      "مشغولند",
+      "مشت",
+      "مشتركا",
+      "مشترکاً",
+      "مشكل",
+      "مشكلتر",
+      "مطلق",
+      "مطلقا",
+      "مطمانا",
+      "مطمانم",
+      "مطمنا",
+      "مطمینا",
+      "مع",
+      "معدود",
+      "معذوریم",
+      "معذوریم",
+      "معتقدیم",
+      "معتقدند",
+      "معتقدم",
+      "معتقدیم",
+      "معلومه",
+      "معلق",
+      "معمولا",
+      "معمولاً",
+      "معمولی",
+      "معمولی",
+      "مغرضانه",
+      "مغلوب",
+      "متؤسفانه",
+      "متاسفانه",
+      "متعاقبا",
+      "متوالی",
+      "متوسفانه",
+      "متفاوتند",
+      "متفكرانه",
+      "متقابلا",
+      "مكرر",
+      "مكررا",
+      "مواجهند",
+      "موارد",
+      "موجب",
+      "موجودند",
+      "موخر",
+      "مورد",
+      "موضوع",
+      "موقعیكه",
+      "موقتا",
+      "مون",
+      "می",
+      "میان",
+      "میزان",
+      "میلیارد",
+      "میلیون",
+      "مفیدند",
+      "مفیدند",
+      "مقابل",
+      "مقال",
+      "مقدار",
+      "مقصر",
+      "مقصری",
+      "مقصرند",
+      "مقصری",
+      "مقلوب",
+      "ملزم",
+      "ملیارد",
+      "ملیون",
+      "من",
+      "منحصر",
+      "منحصرا",
+      "منحصربفرد",
+      "مند",
+      "منصفانه",
+      "منطقا",
+      "منطقی",
+      "منطقی",
+      "منتهی",
+      "منتهی",
+      "منی",
+      "منی",
+      "مهمتره",
+      "ممیزیهاست",
+      "ممکن",
+      "ممیزیهاست",
+      "مکرر",
+      "مکرراً",
+      "مگر",
+      "مگراینكه",
+      "مگرانكه",
+      "مگو",
+      "می",
+      "می‌آید",
+      "می‌باشد",
+      "می‌باشند",
+      "می‌خواهیم",
+      "می‌داند",
+      "می‌رسد",
+      "می‌رود",
+      "می‌شد",
+      "می‌شود",
+      "می‌شوند",
+      "می‌توان",
+      "می‌تواند",
+      "می‌توانند",
+      "می‌فرماید",
+      "می‌کند",
+      "می‌کنند",
+      "می‌کنم",
+      "می‌کنیم",
+      "میان",
+      "میباشد",
+      "میخواستن",
+      "میخواهند",
+      "میداد",
+      "میدهد",
+      "میدهم",
+      "میدهیم",
+      "میروم",
+      "میرن",
+      "میرم",
+      "میزان",
+      "میشوند",
+      "میشه",
+      "میكند",
+      "میكنن",
+      "میكنند",
+      "میكنه",
+      "میكنم",
+      "میكنیم",
+      "میلیارد",
+      "میلیون",
+      "مینوشند",
+      "میکند",
+      "میکنن",
+      "میکنند",
+      "میکنه",
+      "میکنم",
+      "میکنی",
+      "میکنید",
+      "میکنیم",
+      "میگردد",
+      "میگن",
+      "میگیره",
+      "ک",
+      "کار",
+      "کارند",
+      "کاش",
+      "کاشکی",
+      "کامل",
+      "کاملا",
+      "کاملاً",
+      "کجا",
+      "کجاست",
+      "کدام",
+      "کرات",
+      "کرد",
+      "کردن",
+      "کردند",
+      "کرده",
+      "کردم",
+      "کردی",
+      "کردید",
+      "کردیم",
+      "کس",
+      "کسانی",
+      "کسی",
+      "کتبا",
+      "کو",
+      "کَی",
+      "کل",
+      "کلا",
+      "کلی",
+      "کلیه",
+      "کن",
+      "کنار",
+      "کنارش",
+      "کنارِ",
+      "کنان",
+      "کنایه‌ای",
+      "کند",
+      "کنون",
+      "کنونی",
+      "کنند",
+      "کننده",
+      "کنم",
+      "کنی",
+      "کنید",
+      "کنیم",
+      "که",
+      "کم",
+      "کماکان",
+      "کمتر",
+      "کمتره",
+      "کمتری",
+      "کمک",
+      "کمی",
+      "کی",
+      "گاه",
+      "گاهی",
+      "گاهی",
+      "گذاران",
+      "گذاری",
+      "گذاری",
+      "گذاشتن",
+      "گذاشته",
+      "گذشته",
+      "گر",
+      "گردد",
+      "گردید",
+      "گردند",
+      "گروهی",
+      "گروهی",
+      "گرفت",
+      "گرفتارند",
+      "گرفتن",
+      "گرفتند",
+      "گرفته",
+      "گرفتم",
+      "گرفتی",
+      "گرفتید",
+      "گرفتیم",
+      "گرنه",
+      "گرمی",
+      "گرمی",
+      "گرچه",
+      "گو",
+      "گویا",
+      "گویان",
+      "گوید",
+      "گویی",
+      "گویند",
+      "گونه",
+      "گوی",
+      "گویا",
+      "گویان",
+      "گوید",
+      "گویند",
+      "گویم",
+      "گویی",
+      "گویید",
+      "گوییم",
+      "گیرد",
+      "گیری",
+      "گفت",
+      "گفتن",
+      "گفتند",
+      "گفته",
+      "گفتم",
+      "گفتی",
+      "گفتید",
+      "گفتیم",
+      "گه",
+      "گهگاه",
+      "گهگاهی",
+      "گمان",
+      "گیر",
+      "گیرد",
+      "گیرند",
+      "گیرم",
+      "گیری",
+      "گیرید",
+      "گیریم",
+      "ژ",
+      "چ",
+      "چارده",
+      "چاپلوسانه",
+      "چاله",
+      "چرا",
+      "چراكه",
+      "چشم",
+      "چطور",
+      "چت",
+      "چته",
+      "چكار",
+      "چو",
+      "چون",
+      "چونه",
+      "چی",
+      "چیز",
+      "چیزی",
+      "چیزیست",
+      "چیزهاست",
+      "چیست",
+      "چیه",
+      "چقدر",
+      "چنان",
+      "چنانكه",
+      "چنانکه",
+      "چنانچه",
+      "چند",
+      "چندان",
+      "چندانی",
+      "چندروزه",
+      "چندین",
+      "چنده",
+      "چندماهه",
+      "چندمین",
+      "چندین",
+      "چنین",
+      "چنین",
+      "چه",
+      "چهار",
+      "چهارهزار",
+      "چکار",
+      "چگونه",
+      "چی",
+      "چیز",
+      "چیزی",
+      "چیزیست",
+      "چیست",
+      "چیه",
+      "یا",
+      "یاب",
+      "یابد",
+      "یابند",
+      "یابم",
+      "یابی",
+      "یابید",
+      "یابیم",
+      "یارب",
+      "یافت",
+      "یافتن",
+      "یافته",
+      "یافتم",
+      "یافتی",
+      "یافتید",
+      "یافتیم",
+      "یرونِ",
+      "یعنی",
+      "یك",
+      "یكدیگر",
+      "یواش",
+      "یقینا",
+      "یقیناً",
+      "یه",
+      "یک",
+      "یکدیگر",
+      "یکریز",
+      "یکسال",
+      "یکهزار",
+      "یکی"
+   ]
+}
