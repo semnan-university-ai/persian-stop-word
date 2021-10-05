@@ -23,6 +23,11 @@ Donate (Ethereum Address) : 0x2a77dAB50D76A2aE0A3A7572Ee2Fc34d5F94b3dB
 <br />
 <br />
 
+### Related Repositpory
+* [NLP Stopwords](https://github.com/amirshnll/nlp-stopwords)
+
+<br />
+
 ### Other datasets collected by me
 * [Persian-Swear-Words](https://github.com/amirshnll/Persian-Swear-Words/)
 * [persian-stop-word](https://github.com/amirshnll/persian-stop-word/)
